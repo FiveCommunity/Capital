@@ -1,0 +1,19 @@
+-- Dismantle = {
+--     locations = {
+--         { perm = '+Mecanica.Funileiro', coord = vector3(878.822, -2205.481, 30.57727-0.97), cooldown = 300, webhook = '' },
+--         { perm = '+Mecanica.Funileiro', coord = vector3(867.3231, -2204.466, 30.56042-0.97), cooldown = 300, webhook = '' },
+--     },
+--     payments = {
+--         ['vip'] = 80000,
+--         ['conce'] = 40000,
+--         ['item'] = 'dinheirosujo'
+--     },
+--     vehicles_blacklisted = {
+--         [GetHashKey('xj6')] = true
+--         -- [GetHashKey('zentorno')] = true
+--         -- [GetHashKey('404_r1200')] = true,
+--         -- [GetHashKey('wrvolito')] = true,
+--         -- [GetHashKey('wrspeedoems')] = true,
+--         -- [GetHashKey('jaguarhospital')] = true
+--     },
+-- }

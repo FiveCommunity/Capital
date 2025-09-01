@@ -1,0 +1,750 @@
+body,
+td,
+th {
+  font-size: 12px;
+  color: #666;
+  cursor: default;
+  vertical-align: baseline;
+  outline: 0;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  word-wrap: break-word;
+}
+
+body,
+textarea,
+button,
+input {
+  font-family: "Montserrat", sans-serif;
+}
+
+a,
+a:link,
+a:visited,
+a:active,
+a:hover {
+  font-size: 12px;
+  color: #666;
+  text-decoration: none;
+}
+div,
+input,
+span,
+applet,
+object,
+iframe,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr {
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+:focus {
+  outline: 0;
+}
+img {
+  border: none;
+}
+::-webkit-scrollbar {
+  width: 1.5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 15px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(3, 187, 232);
+  border-radius: 15px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(3, 187, 232, 0.5);
+}
+
+::selection {
+  background: transparent;
+}
+::-moz-selection {
+  background: transparent;
+}
+
+#actionmenu {
+  top: 50%;
+  left: 50%;
+  width: 1200px;
+  height: 700px;
+  display: none;
+  overflow: hidden;
+  position: fixed;
+  background: url("images/background.png");
+  border-top: 12px solid #111;
+  border-left: 12px solid #111;
+  border-right: 12px solid #111;
+  border-bottom: 40px solid #111;
+  transform: translate(-50%, -50%);
+}
+
+.buttondelete {
+  position: relative;
+  box-shadow: 0px 39px 0px -24px #e67a73;
+  background-color: #e4685d;
+  border-radius: 4px;
+  border: 1px solid #b23e35;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 6px 15px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #b23e35;
+}
+.buttondelete:hover {
+  background-color: #eb675e;
+}
+.buttondelete:active {
+  position: relative;
+  top: 1px;
+}
+
+.buttonwport {
+  position: relative;
+  top: 5px;
+  box-shadow: 0px 39px 0px -24px #0ab913;
+  background-color: #0ab913;
+  border-radius: 4px;
+  border: 1px solid #009b08;
+  display: inline-block;
+  cursor: pointer;
+  color: #000000;
+  font-size: 15px;
+  padding: 6px 15px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #009b08;
+}
+.buttonwport:hover {
+  background-color: #009b08;
+}
+
+#actionbuttom {
+  top: 50%;
+  left: 50%;
+  width: 40px;
+  height: 14px;
+  display: none;
+  position: fixed;
+  margin-top: 355px;
+  border-radius: 5px;
+  background: #8a888c;
+  transform: translate(-50%, -50%);
+}
+
+#actionbuttom:hover {
+  background: #fff;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+
+  width: 1140px;
+  height: 40px;
+  float: left;
+  margin: 143px 30px 0;
+}
+
+.menu a {
+  color: #fff;
+
+  cursor: pointer;
+  transition: all 0.2s;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+
+  padding: 0 0.5rem;
+
+  border-radius: 5px;
+
+  font-weight: 700;
+  float: left;
+}
+
+.menu a:hover {
+  background: rgb(3, 187, 232);
+}
+
+.user {
+  width: 180px;
+  height: 55px;
+  margin: 25px 635px 0;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background: transparent;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+}
+
+.user-id {
+  width: 190px;
+  height: 60px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background: transparent;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  margin: 4px;
+}
+
+.information {
+  width: 390px;
+  height: 60px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background: transparent;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+.officer {
+  width: 390px;
+  height: 60px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background: transparent;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+.confirmar-warning {
+  width: 200px;
+  height: 40px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  border-radius: 5px;
+  padding-top: 25px;
+  margin: 10px 100px;
+}
+
+.confirmar-ticket {
+  width: 200px;
+  height: 40px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  padding-top: 25px;
+  margin: 10px 100px;
+}
+
+.confirmar-arrest {
+  width: 200px;
+  height: 40px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  padding-top: 25px;
+  margin: 10px 100px;
+}
+
+.anon {
+  padding: 21px;
+  color: #8a8a8a;
+  font-weight: 700;
+  float: right;
+}
+
+.title {
+  width: 395px;
+  float: left;
+  font-size: 25px;
+  font-weight: 700;
+  padding-bottom: 10px;
+  margin: 20px 0;
+  text-align: center;
+
+  color: white;
+}
+
+.item {
+  width: 100%;
+  float: right;
+  overflow: hidden;
+  color: white;
+  background-color: transparent;
+  margin: 5px;
+}
+
+.item:hover {
+  background: rgba(30, 30, 30, 0.3);
+}
+
+.search-itens {
+  width: 210px;
+  height: 265px;
+  position: absolute;
+  left: 0;
+  top: 37%;
+  margin: 57px 40px 20px;
+  /* overflow-y: scroll; */
+  /* overflow-x: hidden; */
+  float: left;
+
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.info {
+  width: 150px;
+  color: white;
+  padding: 20px;
+  margin: 10px 10px;
+  font-weight: 700;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.arrests {
+  width: 150px;
+  color: white;
+  padding: 20px;
+  margin: 10px 10px;
+  font-weight: 700;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.tickets {
+  width: 150px;
+  color: white;
+  padding: 20px;
+  margin: 10px 10px;
+  font-weight: 700;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.warnings {
+  width: 150px;
+  color: white;
+  padding: 20px;
+  margin: 10px 10px;
+  font-weight: 700;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.warnings:hover,
+.warnings:focus,
+.tickets:hover,
+.tickets:focus,
+.arrests:hover,
+.arrests:focus,
+.info:hover,
+.info:focus,
+.confirmar-ticket:hover,
+.confirmar-warning:hover,
+.confirmar-arrest:hover {
+  background: rgb(3, 187, 232);
+}
+
+#info-result {
+  width: 850px;
+  height: 320px;
+  margin: 20px 50px 50px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  float: right;
+
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#info-result2 {
+  width: 850px;
+  height: 320px;
+  margin: 20px 50px 50px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  float: right;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#info-result3 {
+  width: 850px;
+  height: 320px;
+  margin: 20px 50px 50px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  float: right;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#info-result4 {
+  width: 850px;
+  height: 320px;
+  margin: 20px 50px 50px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  float: right;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.info-right {
+  width: 400px;
+  height: 175px;
+  float: right;
+  margin-top: 60px;
+  text-align: center;
+}
+
+.info-left {
+  width: 400px;
+  height: 175px;
+  float: left;
+  margin: 60px 20px;
+  text-align: center;
+}
+
+.parts-one {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  padding: 15px;
+}
+
+.parts-two {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 15px;
+}
+
+.parts-tree {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 15px;
+}
+
+.parts-four {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 15px;
+}
+
+r {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.01rem;
+  font-size: 0.875rem;
+  color: rgb(255, 255, 255);
+}
+
+.warning-title-one {
+  width: 140px;
+  float: left;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px 10px 10px 10px;
+  margin: 0 0 15px;
+  color: white;
+  text-align: center;
+}
+
+.warning-title-two {
+  width: 475px;
+  float: left;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  color: white;
+  margin: 0 0 15px;
+}
+
+.warning-title-tree {
+  width: 200px;
+  float: left;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  margin: 0 0 15px;
+  color: white;
+}
+
+.warning-itens-one {
+  width: 150px;
+  float: left;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.warning-itens-two {
+  width: 480px;
+  float: left;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.warning-itens-tree {
+  width: 200px;
+  float: left;
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.title-one {
+  width: 140px;
+  float: left;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 10px 0 10px 0;
+  /* border-bottom: 1px dashed #999; */
+  color: white;
+  margin: 0 0 15px;
+  text-align: center;
+}
+
+.title-two {
+  width: 150px;
+  float: left;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  padding: 10px 0 10px 0;
+  /* border-bottom: 1px dashed #999; */
+  margin: 0 0 15px;
+}
+
+.title-tree {
+  width: 380px;
+  float: left;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  padding: 10px 0 10px 0;
+  /* border-bottom: 1px dashed #999; */
+  margin: 0 0 15px;
+}
+
+.title-four {
+  width: 160px;
+  float: left;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  color: white;
+  /* border-bottom: 1px dashed #999; */
+  margin: 0 0 15px;
+  text-align: center;
+}
+
+.itens-one {
+  width: 150px;
+  float: left;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.itens-two {
+  width: 150px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.itens-tree {
+  width: 400px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  overflow: auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+.itens-four {
+  width: 120px;
+  float: left;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.itens {
+  width: 850px;
+  height: 285px;
+  margin-top: 35px;
+}
+
+#warnings {
+  width: 400px;
+  height: 425px;
+  position: absolute;
+  top: 30%;
+  left: 33%;
+}
+
+#tickets {
+  width: 400px;
+  height: 425px;
+  position: absolute;
+  top: 30%;
+  left: 33%;
+}
+
+#arrests {
+  width: 400px;
+  height: 425px;
+  position: absolute;
+  top: 30%;
+  left: 33%;
+}
+
+.porte-button {
+  margin-left: 0.3rem;
+
+  color: white;
+
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  text-transform: uppercase;
+
+  padding: 0 1rem;
+  height: 1.5rem;
+  font-size: 0.8rem;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.porte-button:hover {
+  background-color: rgb(3, 187, 232);
+}

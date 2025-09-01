@@ -1,0 +1,148 @@
+.color-0 {
+  color: #ffffff;
+}
+.color-1 {
+  color: #df0000;
+}
+.color-2 {
+  color: #99cc00;
+}
+.color-3 {
+  color: #ffbb33;
+}
+.color-4 {
+  color: #0099cc;
+}
+.color-5 {
+  color: #33b5e5;
+}
+.color-6 {
+  color: #aa66cc;
+}
+.color-8 {
+  color: #cc0000;
+}
+.color-9 {
+  color: #cc0068;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  word-wrap: break-word;
+}
+
+input,
+select,
+textarea,
+button,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+b {
+  font-weight: 600;
+}
+
+#app .chat-window {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+
+  font-size: 14px;
+}
+
+#app .chat-window .chat-messages {
+  max-width: 25rem;
+  height: 12.5rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  gap: 5px;
+
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#app .chat-window .chat-messages .msg {
+  width: 100%;
+
+  color: white;
+  font-weight: 500;
+  border-radius: 5px;
+  font-size: 0.875rem;
+
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#app .chat-input {
+  position: absolute;
+  top: 15rem;
+  left: 2rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#app .chat-input > textarea {
+  width: 25rem;
+  min-height: 2.5rem;
+  max-height: 2.5rem;
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.7rem;
+
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+
+  padding: 0.65rem 0.4rem;
+
+  resize: none;
+  outline: 0;
+
+  overflow: hidden;
+}
+
+#app .chat-input > textarea::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.multiline {
+  white-space: pre-line;
+}
+
+.help {
+  color: rgb(3, 187, 232);
+}
+
+.hidden {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 15px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(3, 187, 232);
+  border-radius: 15px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(3, 187, 232, 0.5);
+}

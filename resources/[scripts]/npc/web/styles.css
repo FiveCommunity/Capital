@@ -1,0 +1,197 @@
+:root {
+  --primary-1000: rgb(3, 187, 232);
+
+  --dark-500: rgba(0, 0, 0, 0.5);
+  --dark-300: rgba(0, 0, 0, 0.3);
+
+  --white-1000: rgb(255, 255, 255);
+  --white-800: rgba(255, 255, 255, 0.8);
+  --white-500: rgba(255, 255, 255, 0.5);
+  --white-100: rgba(255, 255, 255, 0.1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+body,
+input,
+button,
+textarea {
+  font-family: "Montserrat", sans-serif;
+}
+
+@media (max-width: 1200px) {
+  #talknpc .wrap .container {
+    zoom: 0.8;
+  }
+}
+
+@media (max-height: 800px) {
+  #talknpc .wrap .container {
+    zoom: 0.7;
+  }
+}
+
+#talknpc {
+  width: 100vw;
+  height: 100vh;
+
+  background-image: radial-gradient(transparent, var(--dark-500));
+}
+
+#talknpc .wrap {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+
+  padding: 2rem;
+}
+
+#talknpc .wrap .container {
+  width: 40rem;
+  height: 20rem;
+
+  display: flex;
+  flex-direction: column;
+}
+
+#talknpc .wrap .container header {
+  width: 100%;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+#talknpc .wrap .container header > h1 {
+  color: var(--white-1000);
+
+  font-size: 2rem;
+  text-transform: capitalize;
+
+  text-shadow: 2px 2px 5px var(--dark-300);
+}
+
+#talknpc .wrap .container header > span {
+  color: var(--white-800);
+  text-transform: uppercase;
+  letter-spacing: 0.01rem;
+  font-weight: 600;
+}
+
+#talknpc .wrap .container header .line {
+  width: 100%;
+  height: 0.1rem;
+
+  margin-top: 1rem;
+
+  background-image: linear-gradient(to right, var(--white-500), transparent);
+}
+
+#talknpc .wrap .container main {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  padding: 1rem 0 0;
+}
+
+#talknpc .wrap .container main .dialog {
+  width: 100%;
+
+  background-color: var(--dark-500);
+  border: 2px solid var(--white-100);
+  border-radius: 5px;
+
+  padding: 1rem;
+}
+
+#talknpc .wrap .container main .dialog > p {
+  color: var(--white-1000);
+  font-size: 0.975rem;
+}
+
+#talknpc .wrap .container main #options {
+  width: 100%;
+  height: 100%;
+
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+#talknpc .wrap .container main #options li button {
+  width: 19.75rem;
+  height: 3.8rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--dark-500);
+  border: 2px solid var(--white-100);
+  border-radius: 5px;
+
+  color: var(--white-1000);
+  font-size: 0.975rem;
+
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+#talknpc .wrap .container main #options li button:hover {
+  background-color: var(--primary-1000);
+}
+
+::-webkit-scrollbar {
+  width: 1.5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 15px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--primary-1000);
+  border-radius: 15px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-1000);
+}

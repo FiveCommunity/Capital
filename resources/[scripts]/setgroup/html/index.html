@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/ad2a21936d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link href="styles.css" type="text/css" rel="stylesheet" />
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.min.js"
+      integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+      crossorigin="anonymous"
+    ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <section id="gbSetGroup">
+      <div class="wrapper">
+        <div class="content">
+          <div class="header">
+            <span
+              ><b>[<span id="userid">3</span>]</b>
+              <span id="username"></span>
+            </span>
+            <button id="btn-close">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </div>
+          <div class="body">
+            <div id="add-group">
+              <select id="select-group"></select>
+              <small class="error" id="error-group"
+                >Você precisa selecionar um grupo!</small
+              >
+              <select id="select-grade"></select>
+              <small class="error" id="error-grade"
+                >Você precisa selecionar um cargo!</small
+              >
+              <button id="btn-add">Adicionar Grupo</button>
+            </div>
+            <ul id="user-groups" class="groups-list"></ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="scripts.js" type="text/javascript"></script>
+  </body>
+</html>

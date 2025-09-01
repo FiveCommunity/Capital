@@ -1,0 +1,108 @@
+#game {
+  font-family: "Geologica", sans-serif;
+  background-color: #000000;
+  color: #0099ff;
+  display: inline-block;
+  font-size: 28px;
+  position: relative;
+  padding: 0px;
+  margin: 0px;
+}
+
+#gametable {
+  z-index: 5;
+  font-size: 1.51rem;
+}
+
+#infobox {
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: none;
+  text-shadow: -1px -1px black, 1px -1px black, -1px 1px black, 1px 1px black;
+}
+
+#screen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: black;
+  z-index: 500;
+}
+
+#screentext {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  float: left;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem;
+}
+
+audio {
+  display: none;
+}
+
+table {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #000000;
+  text-align: center;
+  margin: 0px;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  padding: 2px 11px;
+  margin: 0px;
+}
+
+table td {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.sol {
+  background-color: #0099ff;
+  color: white;
+}
+
+.sol2 {
+  background-color: #0099ff;
+  color: #111111;
+}
+
+#phonewrapper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+#phone {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 505;
+  padding: 0;
+  margin: 0;
+  display: none;
+}
+
+#bgfill {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 750px;
+  height: 420px;
+  background: #111111;
+  display: none;
+}
+
+.small {
+  font-size: 15px;
+}

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>WISE - SOURCE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://unpkg.com/augmented-ui@2/augmented-ui.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="css/styles.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+  </head>
+
+  <body style="display: none">
+    <bank_section>
+      <header>
+        <img src="" />
+        <a id="h_banco" onclick="activeBank(this)" class="active option"
+          >Banco</a
+        >
+        <a id="h_multas" onclick="activeTraffic(this)" class="option">Multas</a>
+      </header>
+
+      <section>
+        <div class="left-section">
+          <div class="item flex" onclick="depositar()">
+            <div class="toltip flex">depositar</div>
+            <img src="assets/deposit.svg" />
+          </div>
+          <div class="item flex" onclick="sacar()">
+            <div class="toltip flex">sacar</div>
+            <img src="assets/withdrawal.svg" />
+          </div>
+          <div class="item flex" onclick="transference()">
+            <div class="toltip flex">transferência</div>
+            <img src="assets/money.png" />
+          </div>
+          <!-- <div class="item flex" onclick="saque_rapido()">
+            <div class="toltip flex">Saque rapido R$1000</div>
+            <i class="far fa-history"></i>
+          </div> -->
+        </div>
+
+        <div class="right-section bank-main">
+          <modal style="display: none"></modal>
+
+          <div class="card-section">
+            <div class="front-card">
+              <span>Meus Cartões</span>
+              <div class="card-group">
+                <div class="card">
+                  <div class="logo">
+                    <img
+                      src="https://raw.githubusercontent.com/dasShounak/freeUseImages/main/Visa-Logo-PNG-Image.png"
+                      alt="Visa"
+                    />
+                  </div>
+                  <div class="chip">
+                    <img
+                      src="https://raw.githubusercontent.com/dasShounak/freeUseImages/main/chip.png"
+                      alt="chip"
+                    />
+                  </div>
+                  <div class="number">1234 5678 9012 3456</div>
+                  <div class="name">SHOUNAK DAS</div>
+                  <div class="from">05/16</div>
+                  <div class="to">06/22</div>
+                  <div class="ring"></div>
+                </div>
+              </div>
+              <div class="bar-limit">
+                <div class="bar"><div class="fill"></div></div>
+                <div class="text-limit">
+                  <span>Carteira/Banco:</span>
+                  <span id="limit"
+                    ><small>$</small>8 40000 /
+                    <span id="limit-max"><small>$</small>10 000</span></span
+                  >
+                </div>
+              </div>
+              <!-- <div class="transfer">
+                <span>Trasferir para:</span>
+                <div class="person-list">
+                  <div
+                    class="item plus flex"
+                    style="font-size: 20px"
+                    onclick="open_transferencias()"
+                  >
+                    <i class="fal fa-plus"></i>
+                  </div>
+                </div>
+              </div> -->
+              <div class="transfer-list">
+                <span>Extrato:</span>
+                <!-- <div class="clear-extract" onclick="clear_trans()">
+                  <i class="far fa-edit"></i> limpar
+                </div> -->
+                <div class="list-extract"></div>
+              </div>
+            </div>
+            <div class="back-card" style="display: none">
+              <div class="title-list flex-inline">
+                <div class="return-list flex" onclick="returnMenu_Trans()">
+                  <i class="fas fa-chevron-left"></i>
+                </div>
+                <span
+                  style="
+                    text-transform: uppercase;
+                    font-size: 14px;
+                    font-weight: 100;
+                    letter-spacing: 1px;
+                  "
+                  >Cidadões disponiveis</span
+                >
+              </div>
+              <div class="filter-list flex">
+                <i
+                  class="fal fa-search"
+                  style="position: absolute; left: 30px"
+                ></i>
+                <input id="search-player" placeholder="Procure um cidadão" />
+              </div>
+              <div class="player-list">
+                <div class="clear flex">
+                  <img src="assets/loading.svg" />
+                </div>
+              </div>
+              <div class="warning-list">
+                <span
+                  >apos selecionar um cidadão você o adicionará a sua lista de
+                  contatos!</span
+                >
+              </div>
+            </div>
+          </div>
+          <div class="wrap">
+            <div class="notification">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+                <path
+                  fill="#f3f4f5"
+                  fill-opacity=".1"
+                  d="M0,160L30,154.7C60,149,120,139,180,128C240,117,300,107,360,128C420,149,480,203,540,208C600,213,660,171,720,160C780,149,840,171,900,176C960,181,1020,171,1080,165.3C1140,160,1200,160,1260,170.7C1320,181,1380,203,1410,213.3L1440,224L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z"
+                ></path>
+              </svg>
+              <div class="notify-text">
+                <span>Suas multas estão atrasadas pague agora!</span><br />
+                <small>Vá na aba multas e pague imediatamente</small>
+              </div>
+              <button onclick="activeTraffic(this)">
+                <i class="fad fa-chevron-right icon"></i>
+                <span>Redirecionar</span>
+              </button>
+              <div class="notify-type flex" style="display: none">
+                <i class="fad fa-exclamation"></i>
+              </div>
+            </div>
+            <div class="graphics">
+              <div class="area-chart">
+                <div class="rendimentos">
+                  <div class="title-rendimento flex">Rendimentos</div>
+                  <div class="content-rendimentos">
+                    <div class="clear flex">
+                      <img src="assets/loading.svg" />
+                    </div>
+                  </div>
+                  <div class="info-roll flex" style="display: none">
+                    role pra baixo para mais !
+                  </div>
+                </div>
+              </div>
+              <div class="info-chart">
+                <span>Gráfico do Banco</span>
+                <div class="info-content">
+                  <canvas
+                    id="chart-0"
+                    width="400"
+                    height="200"
+                    class="chartjs-render-monitor"
+                  ></canvas>
+                </div>
+              </div>
+            </div>
+            <div class="pix-acess flex" data-augmented-ui="">
+              <div class="pix-text">
+                <!-- <img
+                  src="https://logodownload.org/wp-content/uploads/2020/02/pix-bc-logo.png"
+                /> -->
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="right-section bank-traffic flex" style="display: none">
+          <div class="info-traffic">
+            <div class="search-traffic flex">
+              <i class="fal fa-search"></i>
+              <input id="search-traffics" placeholder="Pesquisar..." />
+            </div>
+            <div class="title-traffic">
+              <h2>Minhas multas:</h2>
+            </div>
+            <div class="content-traffic"></div>
+          </div>
+          <div class="pay-traffic"></div>
+        </div>
+      </section>
+    </bank_section>
+
+    <bankClose style="display: none">
+      <div class="icon">
+        <div class="circle">
+          <span class="dot"></span>
+        </div>
+        <span class="mark"></span>
+      </div>
+      <h1>Banco Fechado</h1>
+      <br />
+      <sub>Desculpa pelo ocorrido!</sub>
+      <small>Horario de funcionamento 07:00 até 17:00</small>
+    </bankClose>
+
+    <notify style="display: none"> </notify>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.0/morris.min.js"></script>
+    <script src="js/font.js"></script>
+    <script src="js/language.js"></script>
+    <script src="js/template.js"></script>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

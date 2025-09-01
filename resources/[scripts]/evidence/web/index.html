@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Capital - evidence</title>
+  </head>
+  <body>
+    <section id="evidence">
+      <div class="wrap">
+        <div class="container">
+          <div class="filter"></div>
+          <div class="wrapper">
+            <div id="starting" style="display: none">
+              <i class="fa-solid fa-spinner"></i>
+              <span>Preparando o sistema...</span>
+            </div>
+            <div id="initial" style="display: none">
+              <div class="left">
+                <div class="image">
+                  <img src="./assets/fingerprint-scan.png" />
+                  <div
+                    class="border-top"
+                    style="border-top-left-radius: 5px"
+                  ></div>
+                  <div
+                    class="border-top"
+                    style="
+                      bottom: 0;
+                      border-top-color: transparent;
+                      border-bottom-left-radius: 5px;
+                      border-bottom-color: rgba(255, 255, 255, 0.5);
+                    "
+                  ></div>
+                  <div
+                    class="border-bottom"
+                    style="border-top-right-radius: 5px"
+                  ></div>
+                  <div
+                    class="border-bottom"
+                    style="
+                      bottom: 0;
+                      border-top-color: transparent;
+                      border-bottom-color: rgba(255, 255, 255, 0.5);
+                      border-bottom-right-radius: 5px;
+                    "
+                  ></div>
+                </div>
+              </div>
+              <div class="right"></div>
+            </div>
+            <div id="result" style="display: none">
+              <h1>Escaneamento Completo</h1>
+              <p style="color: rgba(45, 228, 131, 0.8)">
+                Nenhum resíduo de polvóra encontrado
+              </p>
+              <button id="exit">FECHAR</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+<!-- <p>Nenhum resíduo de polvóra encontrado</p> -->

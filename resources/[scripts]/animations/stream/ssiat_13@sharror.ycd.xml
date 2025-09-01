@@ -1,0 +1,5330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClipsDictionary>
+  <Clips>
+    <Item>
+      <Hash>ssiat_13_clip</Hash>
+      <Name>ssiat_13_clip</Name>
+      <Type value="Animation" />
+      <Unknown30 value="0" />
+      <AnimationHash>ssiat_13_anim</AnimationHash>
+      <StartTime value="0" />
+      <EndTime value="3.75" />
+      <Rate value="0.041666668" />
+    </Item>
+  </Clips>
+  <Animations>
+    <Item>
+      <Hash>ssiat_13_anim</Hash>
+      <Unknown10 value="0" />
+      <FrameCount value="90" />
+      <SequenceFrameLimit value="120" />
+      <Duration value="3.7083333" />
+      <Unknown1C>hash_6ff056a5</Unknown1C>
+      <BoneIds>
+        <Item>
+          <BoneId value="0" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="1356" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="2108" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="2992" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="3515" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4089" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4090" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4115" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4137" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4138" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4153" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4154" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4169" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4170" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4185" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4186" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="5232" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="5749" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="6286" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="6442" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="10706" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11174" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11347" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11363" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11816" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="12844" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="14201" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="16335" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="16562" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="17188" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="17719" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="18905" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="19336" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20178" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20279" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20623" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20781" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20899" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="21550" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="22711" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="23553" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="23639" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24504" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24589" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24806" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24816" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24817" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24818" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="25260" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26610" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26611" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26612" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26613" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26614" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26875" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="27064" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="27474" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="28252" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="28422" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="29868" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="30482" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="31086" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="34414" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="34545" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="34911" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35502" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35731" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35923" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35939" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="36029" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="36864" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="37119" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="37193" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="39317" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="39785" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="40269" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="41540" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="43536" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="43810" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="45075" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="45509" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="45750" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="46078" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="46240" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="47419" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="47495" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="49473" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="49979" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="50201" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="50788" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="51082" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="51826" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="52301" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="52667" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="56604" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="57005" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="57597" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="57717" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58271" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58331" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58866" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58867" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58868" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58869" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58870" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="60309" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="60734" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61007" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61163" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61259" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61839" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="62948" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="63931" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64016" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64017" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64064" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64065" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64080" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64081" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64096" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64097" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64112" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64113" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64157" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64654" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64729" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="65068" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="65245" />
+          <Track value="0" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="0" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="1356" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="2108" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="2992" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="3515" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4089" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4090" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4115" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4137" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4138" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4153" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4154" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4169" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4170" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4185" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="4186" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="5232" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="5749" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="6286" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="6442" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="10706" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="11174" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="11347" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="11363" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="11816" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="12844" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="14201" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="16335" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="16562" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="17188" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="17719" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="18905" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="19336" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="20178" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="20279" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="20623" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="20781" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="20899" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="21550" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="22711" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="23553" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="23639" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="24504" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="24589" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="24806" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="24816" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="24817" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="24818" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="25260" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="26610" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="26611" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="26612" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="26613" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="26614" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="26875" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="27064" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="27474" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="28252" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="28422" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="29868" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="30482" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="31086" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="34414" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="34545" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="34911" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="35502" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="35731" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="35923" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="35939" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="36029" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="36864" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="37119" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="37193" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="39317" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="39785" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="40269" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="41540" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="43536" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="43810" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="45075" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="45509" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="45750" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="46078" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="46240" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="47419" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="47495" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="49473" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="49979" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="50201" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="50788" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="51082" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="51826" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="52301" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="52667" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="56604" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="57005" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="57597" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="57717" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58271" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58331" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58866" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58867" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58868" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58869" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="58870" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="60309" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="60734" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="61007" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="61163" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="61259" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="61839" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="62948" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="63931" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64016" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64017" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64064" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64065" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64080" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64081" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64096" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64097" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64112" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64113" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64157" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64654" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="64729" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="65068" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="65245" />
+          <Track value="1" />
+          <Unk0 value="1" />
+        </Item>
+        <Item>
+          <BoneId value="0" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="1356" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="2108" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="2992" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="3515" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4089" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4090" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4115" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4137" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4138" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4153" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4154" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4169" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4170" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4185" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="4186" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="5232" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="5749" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="6286" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="6442" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="10706" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11174" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11347" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11363" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="11816" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="12844" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="14201" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="16335" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="16562" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="17188" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="17719" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="18905" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="19336" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20178" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20279" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20623" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20781" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="20899" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="21550" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="22711" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="23553" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="23639" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24504" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24589" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24806" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24816" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24817" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="24818" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="25260" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26610" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26611" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26612" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26613" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26614" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="26875" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="27064" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="27474" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="28252" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="28422" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="29868" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="30482" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="31086" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="34414" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="34545" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="34911" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35502" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35731" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35923" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="35939" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="36029" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="36864" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="37119" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="37193" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="39317" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="39785" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="40269" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="41540" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="43536" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="43810" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="45075" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="45509" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="45750" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="46078" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="46240" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="47419" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="47495" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="49473" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="49979" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="50201" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="50788" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="51082" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="51826" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="52301" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="52667" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="56604" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="57005" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="57597" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="57717" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58271" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58331" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58866" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58867" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58868" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58869" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="58870" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="60309" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="60734" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61007" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61163" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61259" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="61839" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="62948" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="63931" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64016" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64017" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64064" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64065" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64080" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64081" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64096" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64097" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64112" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64113" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64157" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64654" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="64729" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="65068" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+        <Item>
+          <BoneId value="65245" />
+          <Track value="2" />
+          <Unk0 value="0" />
+        </Item>
+      </BoneIds>
+      <Sequences>
+        <Item>
+          <Hash>hash_00000000</Hash>
+          <FrameCount value="90" />
+          <SequenceData>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.69656146" y="0.006275626" z="5.5879354e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.068795934" y="-0.00032495375" z="0.010307965" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.16152392" y="1.3192914e-07" z="1.2270922e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.2750001" y="-9.778896e-09" z="-7.424751e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.0048459973" y="-0.101916015" z="5.9604645e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.056322005" y="-4.9429584e-08" z="7.38644e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.035984" y="3.140705e-08" z="-1.3443334e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.06809361" y="-0.09623099" z="-1.0482015e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.044588935" y="4.0799073e-08" z="-1.0485657e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.03065404" y="-1.6245028e-08" z="3.8919296e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.038221024" y="-1.3743492e-08" z="1.0197261e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.022896972" y="4.9311325e-08" z="-1.2996683e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.047288988" y="-1.0863172e-06" z="-7.677864e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.02410799" y="8.128364e-08" z="-2.4067731e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.051797036" y="-9.342995e-07" z="6.3403873e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.032839023" y="9.633292e-07" z="9.313226e-10" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="5.110678e-08" y="-4.6555887e-10" z="-8.3643556e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.093063" y="3.721468e-09" z="5.961911e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.054435097" y="-3.6088752e-09" z="1.1548531e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.07350801" y="-0.00022599242" z="0.09611794" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.21804005" y="0.036433972" z="-0.031919118" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-0.0009180211" y="0.03581394" z="0.011349957" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.031793013" y="0.009999995" z="4.831237e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.024999976" y="-0.005000175" z="-2.9137253e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="7.589671e-08" y="0.0" z="5.587957e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-9.659374e-08" y="-1.0944827e-08" z="-5.960463e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.41297188" y="-2.8210715e-07" z="-6.2186837e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.4000006" y="3.4691766e-08" z="1.0122312e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.4847933e-09" y="-7.741501e-11" z="-0.096118" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.051186997" y="1.1920935e-07" z="-0.008691022" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.008537058" y="-0.0058398442" z="0.0028691096" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.25919425" y="1.3655522e-07" z="-2.4068286e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.048282932" y="0.10558391" z="-0.011092106" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.0047039855" y="0.05767601" z="4.7857714e-11" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.008537004" y="0.0058400463" z="0.0028690177" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.047066975" y="-3.725268e-09" z="-0.00033804265" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.161524" y="4.4297295e-08" z="-1.3752789e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.34500045" y="-0.09899998" z="9.4110146e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.048282888" y="0.105584" z="0.0110899955" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.275" y="6.705523e-08" z="-8.536873e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.018706" y="-0.01007" z="1.1920929e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.073508" y="-0.00022598979" z="-0.09611806" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.04261901" y="-0.02436405" z="0.0043649944" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.34500048" y="-0.099000014" z="-8.1444136e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.101686016" y="-0.064070076" z="-4.057147e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.08485498" y="-6.6137146e-10" z="-5.951136e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.08592201" y="2.073517e-09" z="-1.1927149e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.11289501" y="-5.5551537e-09" z="-5.9533676e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.058406893" y="0.082540974" z="0.02990918" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.025858043" y="0.02276502" z="0.0006109677" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.1067091" y="0.029155003" z="-0.021098245" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.106343076" y="0.005138023" z="-0.022736236" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.100143075" y="-0.017510023" z="-0.013328219" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.093704104" y="-0.033938985" z="0.0015987913" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.051052153" y="-0.03356914" z="-0.011897948" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.042618074" y="-0.024362924" z="-0.004362978" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.058406983" y="0.08253997" z="-0.029909879" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.274172" y="-7.483195e-08" z="-1.9890567e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.05443511" y="-3.6088765e-09" z="1.192106e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-0.0009179608" y="0.03581284" z="-0.011349949" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.02836503" y="0.008264015" z="0.090556115" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.11307612" y="-1.0367552e-06" z="-2.8591313e-10" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-3.4912873e-08" y="-1.1468521e-07" z="-1.2629008e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="9.031092e-09" y="2.5429129e-08" z="0.09611794" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-0.00023797071" y="0.18668689" z="-0.09450112" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.101686016" y="-0.064070076" z="-4.057147e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.05653704" y="2.2350552e-08" z="1.1906661e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.03179297" y="-0.009999985" z="4.263717e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.025001002" y="-0.004999999" z="1.0213373e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.054434072" y="-4.6567306e-10" z="-8.6027065e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.40651858" y="1.8262076e-08" z="1.0885416e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-3.2247044e-08" y="1.8626418e-09" z="2.6521363e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.06600794" y="-0.016034015" z="9.403795e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.24849899" y="-6.670196e-08" z="-5.960397e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-8.5827656e-10" y="8.6883905e-09" z="-0.09611806" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.1818959" y="-9.3368484e-08" z="-1.9940926e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.079827115" y="0.04210198" z="-0.00924318" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.056284912" y="0.084459946" z="-0.030068995" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.12959811" y="-6.0070306e-08" z="2.4187722e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.06400038" y="-0.09899999" z="9.960495e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.18189488" y="-1.4966037e-09" z="2.971649e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.056284882" y="0.08446099" z="0.030067002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.40000054" y="-3.6117857e-08" z="-9.589712e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.010145979" y="0.025397003" z="2.384395e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.009141914" y="0.0058949995" z="-0.0012519888" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.0037370021" y="5.960463e-08" z="0.006846997" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="3.707079e-10" y="0.0" z="0.096118" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.009141948" y="-0.005894995" z="-0.0012519755" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.028366042" y="0.008263986" z="-0.0905572" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.093063" y="3.721468e-09" z="5.961911e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.051052082" y="-0.03356803" z="0.011897938" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.07350797" y="-0.00022603071" z="0.096118" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.41297188" y="3.5405057e-07" z="6.4959822e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-0.019766" y="0.118546985" z="-2.4980018e-16" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="7.5896715e-08" y="0.0" z="3.7252903e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.2591943" y="6.105981e-08" z="2.3523778e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="7.5896715e-08" y="0.0" z="5.587913e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.10168594" y="-0.06406994" z="-4.4758732e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.073507994" y="-0.00022600684" z="-0.09611812" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.068795964" y="-0.00032502922" z="-0.010307071" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.025859063" y="0.022764057" z="-0.00061192847" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.10670817" y="0.029155001" z="0.021097302" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.10634412" y="0.0051370678" z="0.022735247" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.10014413" y="-0.017510053" z="0.013328211" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.09370414" y="-0.033938907" z="-0.0015998472" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.054434005" y="-3.0267998e-08" z="-1.4563295e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.16592404" y="1.2097794e-08" z="5.370082e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.12959813" y="2.4680045e-08" z="-2.9344505e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.27417198" y="1.366687e-08" z="1.0396967e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.079829074" y="0.04210205" z="0.009242214" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.05756491" y="1.19207776e-07" z="-0.0012370609" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.16614777" y="1.12726696e-07" z="5.5236608e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.4065185" y="2.5147813e-09" z="-1.0873778e-06" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.056322023" y="1.4220204e-07" z="-4.4024615e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.035984013" y="6.3218764e-10" z="-5.3323042e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.044589005" y="-1.8065558e-08" z="1.1080035e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.03065398" y="-7.922624e-08" z="1.1114023e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.03822109" y="-1.0647784e-06" z="1.3006745e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.022897981" y="4.345387e-08" z="4.124009e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.04729004" y="-1.05617346e-07" z="4.753689e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.024108082" y="1.0284272e-06" z="-4.5522953e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.051797055" y="9.671879e-07" z="4.6622355e-09" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.03283907" y="1.812686e-07" z="1.12926495e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-4.625365e-08" y="1.521861e-08" z="-6.519413e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-0.00023800596" y="0.18668592" z="0.094504" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.21804006" y="0.036434017" z="0.031918947" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="-3.6989082e-08" y="1.8858866e-08" z="5.960431e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.10168594" y="-0.06406994" z="-4.4758732e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-7.487223e-09" y="-2.8645302e-09" z="0.09881456" w="0.99510586" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.418374" y="0.6489617" z="0.2152582" w="0.5978928" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.98431814" y="-0.17640296" z="-3.6801172e-08" w="1.4489622e-07" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-8.381903e-08" y="1.0408465e-05" z="-6.807054e-13" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="7.450582e-09" y="-2.1316282e-14" z="4.7904008e-15" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.0052974853" y="0.011880395" z="-0.14400347" w="0.9894917" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.0016066747" y="0.010017965" z="-0.11553353" w="0.99325186" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.020962883" y="-0.9997507" z="0.00016055304" w="0.007690794" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.0017438956" y="-0.0013460398" z="-0.24992204" w="0.96826357" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.027354391" y="-0.005071894" z="-0.22550026" w="0.97384584" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.00281321" y="-0.024782576" z="-0.34978795" w="0.93649685" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.020559896" y="-0.008158031" z="-0.10414123" w="0.9943165" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.01679836" y="-0.031104939" z="-0.24323978" w="0.9693218" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.005792117" y="-0.010151152" z="-0.13526322" w="0.9907408" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.007073721" y="-0.015217934" z="-0.20448413" w="0.97872615" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.016172832" y="-0.028574124" z="-0.2034673" w="0.97853106" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-1.7942449e-07" y="-2.842396e-06" z="-4.2899737e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-6.0103794e-06" y="2.8306374e-08" z="-1.7003433e-13" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="3.4924586e-08" y="2.2351749e-08" z="-3.4458925e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticFloat" />
+                  <Value value="0.021835249" />
+                </Item>
+                <Item>
+                  <Type value="IndirectQuantizeFloat" />
+                  <Quantum value="3.7252903e-09" />
+                  <Offset value="0.009227747" />
+                  <Values>0.009227747097611427 0.009227750822901726</Values>
+                  <Frames>
+                    0 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1
+                  </Frames>
+                </Item>
+                <Item>
+                  <Type value="StaticFloat" />
+                  <Value value="0.063323595" />
+                </Item>
+                <Item>
+                  <Type value="StaticFloat" />
+                  <Value value="0.9977115" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.11950113" y="0.7790346" z="-0.10087997" w="0.6071637" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.3015754" y="0.6310233" z="0.43185624" w="0.56952804" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="1.3256793e-08" y="4.2433403e-08" z="-7.450578e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-3.7904977e-07" y="1.7695147e-06" z="9.0897e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="7.902535e-09" y="0.70710665" z="-2.6341775e-09" w="0.7071069" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-5.5038604e-06" y="8.183592e-08" z="-4.527167e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.06519721" y="-0.019028718" z="0.64625204" w="0.7600958" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-7.3544754e-08" y="-2.07918e-06" z="2.9802334e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.020320801" y="0.03898821" z="-0.020012029" w="0.9988326" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-7.803877e-07" y="-0.30022407" z="4.503839e-06" w="0.9538687" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.7432885" y="-0.36254627" z="-0.37304133" w="0.4206217" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.57071954" y="-0.13051747" z="0.2293452" w="0.7775893" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.16068326" y="0.79599816" z="0.01538214" w="0.5833792" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.49991354" y="0.50008756" z="0.50007993" w="0.4999191" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.7432866" y="-0.3625633" z="0.37305665" w="0.42059675" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="5.0708404e-06" y="-0.56223524" z="3.2044595e-06" w="0.8269774" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.98431796" y="-0.17640336" z="5.6142532e-08" w="7.8095624e-08" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="2.0374107e-10" y="-3.8412445e-06" z="-3.7252885e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.585896" y="-0.015902486" z="-0.79414874" w="0.1606265" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="1.4901164e-07" y="-1.03516495e-05" z="-1.8641872e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-3.5712133e-09" y="1.8589895e-09" z="-0.04761051" w="0.99886596" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.020029204" y="0.004628703" z="0.051049758" w="0.99848455" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="6.5937644e-07" y="3.3527596e-07" z="-1.8626238e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="5.445901e-07" y="-3.4626619e-06" z="-3.0175036e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.56413203" y="0.42632738" z="0.5803925" w="0.40391168" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-4.995154e-06" y="-2.2271257e-07" z="0.044387896" w="0.9990144" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="4.9956393e-06" y="-8.271051e-08" z="-0.02384537" w="0.99971575" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-2.0014534e-06" y="-1.2679128e-08" z="0.03328597" w="0.999446" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.5179949" y="0.477765" z="0.5254686" w="0.47676483" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.04988097" y="-0.15601735" z="0.24832462" w="0.95472795" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.64476115" y="-0.059079308" z="-0.032992102" w="0.7613831" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.7020956" y="-0.10030838" z="-0.12540314" w="0.69373924" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.7838723" y="-0.029475436" z="-0.14438361" w="0.60318226" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.83355075" y="0.0709215" z="-0.11481184" w="0.5357066" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.5357046" y="0.114813164" z="-0.070920885" w="0.8335519" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-5.094334e-07" y="-2.9802319e-08" z="5.066394e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.4756208" y="0.52670115" z="0.47889185" w="0.5167527" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="IndirectQuantizeFloat" />
+                  <Quantum value="2.8230227e-09" />
+                  <Offset value="-0.0029601539" />
+                  <Values>-0.002960153855383396 -0.0029601529240608215</Values>
+                  <Frames>
+                    0 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1
+                  </Frames>
+                </Item>
+                <Item>
+                  <Type value="IndirectQuantizeFloat" />
+                  <Quantum value="1.4901161e-08" />
+                  <Offset value="0.16310097" />
+                  <Values>0.1631009876728058 0.1631009727716446</Values>
+                  <Frames>
+                    0 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1 
+                    1 1 1 1 1 1 1 1 1 1
+                  </Frames>
+                </Item>
+                <Item>
+                  <Type value="StaticFloat" />
+                  <Value value="0.0734449" />
+                </Item>
+                <Item>
+                  <Type value="StaticFloat" />
+                  <Value value="0.98386747" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="3.585591e-08" y="1.4901168e-08" z="-3.35276e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.57076967" y="0.43126643" z="0.629892" w="0.30243573" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="7.61356e-08" y="-1.7771986e-06" z="-2.9802447e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="1.1977566e-05" y="-8.6904066e-07" z="-0.11966705" w="0.9928142" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.015330374" y="0.0052078604" z="-0.32160938" w="0.946734" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.020321324" y="-0.038988125" z="-0.020012006" w="0.9988326" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.70702916" y="-0.010467233" z="0.70702946" w="0.010467233" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.56413203" y="0.42632738" z="0.5803925" w="0.40391168" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="4.494883e-06" y="-2.2029184e-08" z="-6.705525e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="4.981123e-07" y="3.2421656e-07" z="-5.289911e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-9.4249765e-07" y="8.4936255e-07" z="-1.1697421e-06" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-2.79399e-07" y="-9.290888e-06" z="-2.1792694e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="1.1368684e-13" />
+                  <Offset value="1.5146637e-06" />
+                  <Values>
+                    1.5146637224461301e-06 1.5146644045671565e-06 1.514664973001345e-06 1.5146653140618582e-06 1.514665427748696e-06 1.5146659961828846e-06 1.51466622355656e-06 1.5146667919907486e-06 1.5146666783039109e-06 1.514667474111775e-06 
+                    1.514667815172288e-06 1.514668269919639e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 
+                    1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06 1.5146679288591258e-06
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="2.366522e-11" />
+                  <Offset value="-2.4814783e-05" />
+                  <Values>
+                    -2.481471346982289e-05 -2.4814720745780505e-05 -2.4814724383759312e-05 -2.4814729840727523e-05 -2.481473893567454e-05 -2.4814742573653348e-05 -2.4814749849610962e-05 -2.481475348758977e-05 -2.4814762582536787e-05 -2.4814766220515594e-05 
+                    -2.4814771677483805e-05 -2.481477895344142e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 
+                    -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05 -2.4814782591420226e-05
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="1.6322367e-07" />
+                  <Offset value="-0.17115243" />
+                  <Values>
+                    -0.17115193605422974 -0.17115198075771332 -0.1711520403623581 -0.17115208506584167 -0.17115209996700287 -0.17115215957164764 -0.17115218937397003 -0.1711522489786148 -0.1711522787809372 -0.17115230858325958 
+                    -0.17115236818790436 -0.17115239799022675 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 
+                    -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913 -0.17115242779254913
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="5.9604645e-08" />
+                  <Offset value="0.9852448" />
+                  <Values>
+                    0.9852448105812073 0.9852450489997864 0.9852452874183655 0.9852455258369446 0.9852457642555237 0.9852460026741028 0.9852462410926819 0.985246479511261 0.9852466583251953 0.9852468967437744 
+                    0.9852471351623535 0.9852473735809326 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 
+                    0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878 0.9852473139762878
+                  </Values>
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-3.869643e-07" y="-4.3958443e-07" z="-6.361212e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.5226173" y="0.47630808" z="0.47630313" w="0.5226253" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.0074920272" y="-0.10453368" z="0.20487446" w="0.9731614" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.020320807" y="0.03898836" z="-0.020012025" w="0.9988326" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.3149256" y="0.36694032" z="0.3259362" w="0.81236833" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.2749548" y="-0.16040987" z="0.10550817" w="0.94209164" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.47562096" y="0.52670133" z="0.47889164" w="0.51675254" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-6.176559e-08" y="5.960473e-08" z="2.3283024e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-1.9150313e-08" y="2.2119316e-08" z="-8.568166e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.42296022" y="0.14275128" z="0.13026579" w="0.8853008" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.51799536" y="0.47776473" z="0.52546746" w="0.47676587" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="5.4540582e-08" y="2.073825e-06" z="-1.8626036e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.32405373" y="0.6284849" z="0.62847525" w="0.32405987" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.5921869" y="0.27187172" z="0.6203414" w="0.43655112" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="4.2431802e-07" y="0.037001144" z="4.4302087e-06" w="0.9993153" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.020321328" y="-0.038988076" z="-0.020012002" w="0.9988326" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.5929108" y="0.27136636" z="-0.6196455" w="0.43687132" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="8.236408e-09" y="-1.3436671e-06" z="1.8626462e-08" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-6.0103794e-06" y="2.8306374e-08" z="-1.7003433e-13" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.8335509" y="0.07092154" z="-0.11481194" w="0.53570646" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.08630452" y="0.0020355673" z="0.063662685" w="0.99423057" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="3.765423e-08" />
+                  <Offset value="-0.039483324" />
+                  <Values>
+                    -0.039482928812503815 -0.03948293998837471 -0.039482951164245605 -0.0394829586148262 -0.0394829660654068 -0.039482977241277695 -0.03948298469185829 -0.03948299586772919 -0.039483003318309784 -0.03948301821947098 
+                    -0.039483025670051575 -0.03948303312063217 -0.03948304429650307 -0.03948305547237396 -0.03948306292295456 -0.039483074098825455 -0.03948308154940605 -0.03948308899998665 -0.039483100175857544 -0.03948311135172844 
+                    -0.039483118802309036 -0.03948312625288963 -0.03948313742876053 -0.039483144879341125 -0.03948315978050232 -0.03948316350579262 -0.03948317840695381 -0.03948318213224411 -0.039483193308115005 -0.0394832044839859 
+                    -0.039483215659856796 -0.03948322311043739 -0.03948323056101799 -0.039483245462179184 -0.03948324918746948 -0.039483264088630676 -0.039483267813920975 -0.03948327898979187 -0.03948328644037247 -0.03948329761624336 
+                    -0.03948330506682396 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 
+                    -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 
+                    -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 
+                    -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 
+                    -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545 -0.03948332369327545
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="3.7252903e-09" />
+                  <Offset value="0.049083285" />
+                  <Values>
+                    0.04908328503370285 0.04908330366015434 0.04908331483602524 0.049083318561315536 0.04908333718776703 0.049083348363637924 0.04908335208892822 0.04908337444067001 0.04908337816596031 0.049083396792411804 
+                    0.0490834079682827 0.0490834079682827 0.04908343032002449 0.049083441495895386 0.04908344894647598 0.049083467572927475 0.04908347874879837 0.04908348247408867 0.04908350110054016 0.049083512276411057 
+                    0.049083516001701355 0.049083538353443146 0.049083542078733444 0.049083560705184937 0.04908357188105583 0.04908357560634613 0.04908359423279762 0.04908360540866852 0.049083612859249115 0.04908363148570061 
+                    0.0490836426615715 0.0490836463868618 0.04908366501331329 0.04908367618918419 0.04908367991447449 0.04908370226621628 0.04908371344208717 0.04908371716737747 0.049083735793828964 0.049083735793828964 
+                    0.049083758145570755 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 
+                    0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 
+                    0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 
+                    0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 
+                    0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165 0.04908376932144165
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="1.1920929e-07" />
+                  <Offset value="0.6526601" />
+                  <Values>
+                    0.652660071849823 0.6526602506637573 0.6526604294776917 0.6526605486869812 0.6526607275009155 0.6526608467102051 0.6526610255241394 0.6526612043380737 0.6526613235473633 0.6526615023612976 
+                    0.6526616215705872 0.6526618003845215 0.6526619791984558 0.6526620984077454 0.6526622772216797 0.6526623964309692 0.6526625752449036 0.6526627540588379 0.6526628732681274 0.6526630520820618 
+                    0.6526632308959961 0.6526633501052856 0.65266352891922 0.6526636481285095 0.6526638269424438 0.6526640057563782 0.6526641249656677 0.652664303779602 0.6526644229888916 0.6526646018028259 
+                    0.6526647806167603 0.6526648998260498 0.6526650786399841 0.6526651978492737 0.652665376663208 0.6526655554771423 0.6526656746864319 0.6526658535003662 0.6526660323143005 0.6526661515235901 
+                    0.6526663303375244 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 
+                    0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 
+                    0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 
+                    0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 
+                    0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814 0.652666449546814
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="1.7881393e-07" />
+                  <Offset value="0.75502783" />
+                  <Values>
+                    0.7550278306007385 0.7550280094146729 0.7550281882286072 0.7550283670425415 0.7550285458564758 0.7550287246704102 0.7550289034843445 0.7550290822982788 0.7550292611122131 0.7550294399261475 
+                    0.7550296187400818 0.7550297975540161 0.7550299763679504 0.7550301551818848 0.7550303339958191 0.7550305128097534 0.7550306916236877 0.7550308704376221 0.7550310492515564 0.7550312280654907 
+                    0.755031406879425 0.7550315856933594 0.7550317645072937 0.755031943321228 0.7550321221351624 0.7550323009490967 0.755032479763031 0.7550326585769653 0.7550328373908997 0.755033016204834 
+                    0.7550331950187683 0.7550333738327026 0.755033552646637 0.7550337314605713 0.7550339102745056 0.7550340890884399 0.7550342679023743 0.7550344467163086 0.7550346255302429 0.7550348043441772 
+                    0.7550349831581116 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 
+                    0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 
+                    0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 
+                    0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 
+                    0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459 0.7550351619720459
+                  </Values>
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="3.7252916e-09" y="0.0" z="3.4950888e-16" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="3.7252903e-09" y="6.6504674e-10" z="-7.45058e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="3.2407243e-07" />
+                  <Offset value="-0.33981457" />
+                  <Values>
+                    -0.33981457352638245 -0.3398144841194153 -0.3398144841194153 -0.33981433510780334 -0.33981436491012573 -0.33981433510780334 -0.33981430530548096 -0.33981427550315857 -0.33981412649154663 -0.339814156293869 
+                    -0.339814156293869 -0.33981409668922424 -0.33981406688690186 -0.33981403708457947 -0.3398139774799347 -0.3398139774799347 -0.3398139178752899 -0.33981388807296753 -0.3398137390613556 -0.33981379866600037 
+                    -0.339813768863678 -0.3398137092590332 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 
+                    -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 
+                    -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 
+                    -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 
+                    -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 
+                    -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 
+                    -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989 -0.3398136794567108 -0.33981359004974365 -0.33981361985206604 -0.3398135304450989
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="2.2135505e-07" />
+                  <Offset value="-0.2321076" />
+                  <Values>
+                    -0.23210759460926056 -0.23210754990577698 -0.23210753500461578 -0.23210746049880981 -0.23210746049880981 -0.23210744559764862 -0.23210741579532623 -0.23210740089416504 -0.23210732638835907 -0.23210732638835907 
+                    -0.23210731148719788 -0.2321072667837143 -0.2321072518825531 -0.2321072369813919 -0.23210719227790833 -0.23210717737674713 -0.23210714757442474 -0.23210711777210236 -0.23210705816745758 -0.23210707306861877 
+                    -0.23210705816745758 -0.232107013463974 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 
+                    -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 
+                    -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 
+                    -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 
+                    -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 
+                    -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 
+                    -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325 -0.2321069836616516 -0.23210693895816803 -0.23210692405700684 -0.23210687935352325
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="1.4901161e-08" />
+                  <Offset value="0.12883475" />
+                  <Values>
+                    0.12883514165878296 0.12883511185646057 0.12883509695529938 0.128835067152977 0.128835067152977 0.1288350373506546 0.1288350373506546 0.1288350224494934 0.12883499264717102 0.12883499264717102 
+                    0.12883497774600983 0.12883496284484863 0.12883491814136505 0.12883494794368744 0.12883491814136505 0.12883490324020386 0.12883490324020386 0.12883487343788147 0.12883484363555908 0.12883485853672028 
+                    0.1288348287343979 0.1288348287343979 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 
+                    0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 
+                    0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 
+                    0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 
+                    0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 
+                    0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 
+                    0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192 0.1288347840309143 0.1288347840309143 0.12883475422859192 0.12883475422859192
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="5.9604645e-08" />
+                  <Offset value="0.9022468" />
+                  <Values>
+                    0.9022493362426758 0.9022492170333862 0.9022490978240967 0.9022489786148071 0.9022489190101624 0.9022486805915833 0.9022486805915833 0.9022485613822937 0.9022484421730042 0.9022483825683594 
+                    0.9022482633590698 0.9022481441497803 0.9022479057312012 0.902247965335846 0.9022478461265564 0.9022477269172668 0.9022475481033325 0.9022474884986877 0.9022473692893982 0.9022472500801086 
+                    0.9022472500801086 0.9022470116615295 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 
+                    0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 
+                    0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 
+                    0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 
+                    0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 
+                    0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 
+                    0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504 0.9022469520568848 0.9022468328475952 0.9022467732429504 0.9022467732429504
+                  </Values>
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-2.63418e-09" y="-0.70710665" z="-7.902531e-09" w="0.7071069" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.5803929" y="0.40391096" z="0.5641326" w="0.4263267" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.07667364" y="0.009936566" z="0.05201816" w="0.9956488" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.5993534" y="0.2143211" z="0.6475983" w="0.41887754" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.04988235" y="0.15601657" z="0.24832372" w="0.9547282" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.7613833" y="0.032992013" z="0.059080116" w="0.64476085" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.69373876" y="0.1254025" z="0.10030896" w="0.7020961" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.60318136" y="0.14438325" z="0.029475616" w="0.783873" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.53570455" y="0.11481327" z="-0.070920974" w="0.8335519" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-2.9430015e-07" y="-9.309514e-06" z="-2.1606444e-07" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.88495064" y="0.4653322" z="0.016037643" w="0.008433415" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.03834888" y="-0.061707754" z="0.050507512" w="0.99607766" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.0006010112" y="0.47476268" z="0.2352667" w="0.8480859" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.2749549" y="0.16040933" z="0.1055086" w="0.9420917" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-7.4036243e-06" y="0.8380494" z="8.488134e-06" w="0.54559433" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.8846516" y="0.46517515" z="0.028040474" w="0.014744648" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="8.5257496e-13" />
+                  <Offset value="-8.9398964e-07" />
+                  <Values>
+                    -8.93981223271112e-07 -8.939813938013685e-07 -8.939816780184628e-07 -8.939817917053006e-07 -8.93982019078976e-07 -8.939823601394892e-07 -8.93982416982908e-07 -8.939827580434212e-07 -8.939828717302589e-07 -8.939830991039344e-07 
+                    -8.939833833210287e-07 -8.939834970078664e-07 -8.939838380683796e-07 -8.939839517552173e-07 -8.939841791288927e-07 -8.93984463345987e-07 -8.939845770328247e-07 -8.939849180933379e-07 -8.939849749367568e-07 -8.939852023104322e-07 
+                    -8.939855433709454e-07 -8.939856570577831e-07 -8.939859412748774e-07 -8.939860549617151e-07 -8.939863960222283e-07 -8.939865665524849e-07 -8.939866802393226e-07 -8.939870212998358e-07 -8.939871349866735e-07 -8.939874760471866e-07 
+                    -8.939875328906055e-07 -8.93987760264281e-07 -8.939881013247941e-07 -8.939882150116318e-07 -8.939884992287261e-07 -8.939886129155639e-07 -8.939888971326582e-07 -8.939891813497525e-07 -8.939892381931713e-07 -8.939896360971034e-07 
+                    -8.939894655668468e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 
+                    -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 
+                    -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 
+                    -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 
+                    -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07 -8.939895224102656e-07
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="9.094947e-13" />
+                  <Offset value="1.0909248e-05" />
+                  <Values>
+                    1.09092479760875e-05 1.0909251614066307e-05 1.090925343305571e-05 1.0909256161539815e-05 1.0909259799518622e-05 1.0909261618508026e-05 1.0909265256486833e-05 1.0909266165981535e-05 1.090926889446564e-05 1.0909272532444447e-05 
+                    1.090927435143385e-05 1.0909277989412658e-05 1.0909279808402061e-05 1.0909283446380869e-05 1.090928435587557e-05 1.0909287084359676e-05 1.0909290722338483e-05 1.0909292541327886e-05 1.0909296179306693e-05 1.0909297998296097e-05 
+                    1.0909300726780202e-05 1.0909303455264308e-05 1.0909305274253711e-05 1.0909308912232518e-05 1.0909310731221922e-05 1.0909313459706027e-05 1.0909317097684834e-05 1.0909318916674238e-05 1.0909322554653045e-05 1.0909323464147747e-05 
+                    1.0909326192631852e-05 1.0909329830610659e-05 1.0909331649600063e-05 1.090933528757887e-05 1.0909337106568273e-05 1.090934074454708e-05 1.0909341654041782e-05 1.0909344382525887e-05 1.0909348020504694e-05 1.09093507489888e-05 
+                    1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 
+                    1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 
+                    1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 
+                    1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 
+                    1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05 1.0909351658483502e-05
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="9.6109204e-08" />
+                  <Offset value="-0.100777805" />
+                  <Values>
+                    -0.10077686607837677 -0.10077688097953796 -0.10077691078186035 -0.10077692568302155 -0.10077695548534393 -0.10077698528766632 -0.10077700018882751 -0.1007770299911499 -0.1007770448923111 -0.10077708214521408 
+                    -0.10077709704637527 -0.10077712684869766 -0.10077714174985886 -0.10077717155218124 -0.10077720135450363 -0.10077721625566483 -0.10077724605798721 -0.10077726095914841 -0.10077729821205139 -0.10077731311321259 
+                    -0.10077734291553497 -0.10077735781669617 -0.10077738761901855 -0.10077741742134094 -0.10077743232250214 -0.10077746212482452 -0.10077747702598572 -0.1007775142788887 -0.1007775291800499 -0.10077755898237228 
+                    -0.10077757388353348 -0.10077760368585587 -0.10077763348817825 -0.10077764838933945 -0.10077767819166183 -0.10077769309282303 -0.10077773034572601 -0.10077774524688721 -0.1007777750492096 -0.10077779740095139 
+                    -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 
+                    -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 
+                    -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 
+                    -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 
+                    -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198 -0.10077780485153198
+                  </Values>
+                </Item>
+                <Item>
+                  <Type value="QuantizeFloat" />
+                  <Quantum value="1.7881393e-07" />
+                  <Offset value="0.99490917" />
+                  <Values>
+                    0.9949091672897339 0.994909405708313 0.9949096441268921 0.9949098825454712 0.9949101209640503 0.9949103593826294 0.9949105978012085 0.9949108362197876 0.9949110746383667 0.9949113130569458 
+                    0.9949115514755249 0.994911789894104 0.9949120283126831 0.9949122667312622 0.9949125051498413 0.9949127435684204 0.9949129819869995 0.9949132204055786 0.9949134588241577 0.9949136972427368 
+                    0.9949139356613159 0.994914174079895 0.9949144124984741 0.9949146509170532 0.9949148893356323 0.9949150681495667 0.9949153065681458 0.9949155449867249 0.994915783405304 0.9949160218238831 
+                    0.9949162602424622 0.9949164986610413 0.9949167370796204 0.9949169754981995 0.9949172139167786 0.9949174523353577 0.9949176907539368 0.9949179291725159 0.994918167591095 0.9949184060096741 
+                    0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 
+                    0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 
+                    0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 
+                    0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 
+                    0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741 0.9949184060096741
+                  </Values>
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.0052953935" y="-0.011881185" z="-0.14400406" w="0.98949164" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.0016078699" y="-0.010025247" z="-0.115533836" w="0.99325174" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.001743671" y="-0.0013469523" z="0.24992244" w="0.96826345" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.027354024" y="-0.005072745" z="0.22550039" w="0.9738458" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.002813678" y="-0.024782006" z="0.34978807" w="0.9364968" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.020558909" y="-0.00815799" z="0.1041413" w="0.9943165" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.01679897" y="-0.031105194" z="0.2432407" w="0.96932155" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.0057919906" y="-0.010150734" z="0.13526316" w="0.9907408" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.007074182" y="-0.015217735" z="0.20448285" w="0.9787263" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.016172769" y="-0.028573912" z="0.20346755" w="0.978531" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.015284183" y="-0.005164798" z="-0.32008347" w="0.947252" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.70702916" y="-0.010467227" z="0.70702946" w="0.010467233" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="0.119502865" y="-0.7790338" z="-0.100883916" w="0.60716397" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-6.0047914e-06" y="1.3405215e-08" z="6.6483716e-09" w="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticQuaternion" />
+                  <Value x="-0.5803929" y="0.40391096" z="0.5641326" w="0.4263267" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000001" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000006" y="1.0000006" z="1.0000005" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0000004" z="1.0000004" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="0.99999905" z="1.0000006" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0" z="1.0000007" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000006" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="0.9999999" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="1.0000001" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0000002" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.9999997" z="0.99999964" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="0.99999994" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000001" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000004" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999989" y="1.0000011" z="0.9999988" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999976" y="0.9999998" z="0.9999997" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="1.0000001" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0000002" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999976" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="1.0000005" z="1.0000006" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999976" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000001" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0" z="1.0000007" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999998" y="1.0" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000007" y="1.0000002" z="1.0000007" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999994" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="1.0000002" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000019" y="0.99999595" z="1.0000014" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="1.0000002" z="1.0000006" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999994" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0000002" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000002" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999976" y="1.0000002" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="0.99999917" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.9999999" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000001" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="1.0000004" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0000001" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="0.9999999" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="0.99999994" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000001" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="1.0000001" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0000005" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="0.9999998" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="0.9999995" z="0.99999976" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000004" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000002" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000002" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="0.99999976" z="1.0000005" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999998" y="0.9999999" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999905" y="0.99999934" z="0.9999995" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999995" y="0.9999996" z="0.9999995" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0000005" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000002" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000001" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.9999997" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.9999999" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="0.9999998" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999994" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0000001" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999997" y="1.0" z="0.99999976" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="0.9999994" z="0.99999976" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999995" y="1.0000005" z="0.9999995" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="0.9999998" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="0.9999997" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="1.0" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999946" y="0.9999985" z="1.0000014" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999976" y="0.99999976" z="0.9999997" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999998" y="0.99999964" z="0.9999997" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="0.9999998" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999989" y="0.99999845" z="1.000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="0.9999999" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000002" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999995" y="0.9999996" z="0.99999964" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999998" y="0.99999976" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="0.9999998" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999964" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000002" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0000005" z="1.0000008" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999946" y="0.99999976" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999981" y="0.99999946" z="1.0000013" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000004" y="0.9999998" z="1.0000004" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="1.0000001" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="0.99999994" z="1.0000005" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="0.9999998" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="0.99999976" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000004" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999997" y="0.9999999" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999998" y="0.99999994" z="0.99999976" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="0.9999999" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999973" y="1.0000004" z="1.0000029" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.9999999" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999976" y="0.99999994" z="0.9999989" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0000004" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000002" y="1.0000002" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000001" z="1.0000004" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000002" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999976" y="0.99999976" z="0.99999976" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.9999999" y="0.9999999" z="0.99999994" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0000004" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0000001" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999994" y="0.9999998" z="1.0000002" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="0.99999976" z="0.99999976" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000005" y="1.0000002" z="1.0000005" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="0.99999964" y="0.9999997" z="0.9999998" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0000001" y="1.0" z="1.0000001" />
+                </Item>
+              </Channels>
+            </Item>
+            <Item>
+              <Channels>
+                <Item>
+                  <Type value="StaticVector3" />
+                  <Value x="1.0" y="1.0" z="1.0" />
+                </Item>
+              </Channels>
+            </Item>
+          </SequenceData>
+        </Item>
+      </Sequences>
+    </Item>
+  </Animations>
+</ClipsDictionary>

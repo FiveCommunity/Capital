@@ -1,0 +1,141 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+textarea {
+  font-family: "Geologica", sans-serif;
+}
+
+strong {
+  font-weight: normal;
+  display: block;
+  font-size: 0.8rem;
+}
+
+p {
+  font-size: 0.8rem;
+  margin-top: 0.6rem;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+#homes {
+  display: none;
+}
+
+#homes .wrap {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#homes .wrap .container {
+  width: 280px;
+  margin-left: 20%;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(3, 187, 232, 0.3),
+    rgba(0, 0, 0, 0.2)
+  );
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+#homes .wrap .container .title {
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: rgb(255, 255, 255);
+  margin-bottom: 1rem;
+}
+
+#homes .wrap .container .title span {
+  color: rgb(3, 187, 232);
+}
+
+#homes .wrap .container #action-list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-height: 12.5rem;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+#homes .wrap .container #action-list li {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  justify-content: space-between;
+}
+
+#homes .wrap .container #action-list li .item-description {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  height: 100%;
+  flex: 1;
+  padding: 0 0.5rem;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.1);
+  min-height: 2rem;
+  height: 2rem;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.5s;
+}
+
+#homes .wrap .container #action-list li .item-description:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+#homes .wrap .container #action-list li > button > i {
+  color: rgb(3, 187, 232);
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(3, 187, 232);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(3, 187, 232);
+}

@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+textarea {
+  font-family: "Geologica", sans-serif;
+}
+
+#tencode {
+  width: 100vw;
+  height: 100vh;
+  display: none;
+}
+
+#tencode .content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 50px;
+}
+
+#tencode .content .conteiner {
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: row;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
+}
+
+#tencode .content .conteiner .texts {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+}
+
+#tencode .content .conteiner .texts .codes {
+  font-weight: 400;
+  color: #ffffff;
+  border: 0;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(3, 187, 232);
+  background-color: rgba(3, 187, 232, 0.3);
+
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#tencode .content .conteiner .texts .codes:hover {
+  background-color: rgba(3, 187, 232, 0.5);
+}

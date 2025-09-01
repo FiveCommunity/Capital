@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link href="css/mhacking.css" type="text/css" rel="stylesheet" />
+    <link href="css/taskbar.css" type="text/css" rel="stylesheet" />
+    <link href="css/sendnuimessage.css" type="text/css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geologica:wght@100;200;400;900&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <!-- Capuz -->
+    <div id="capuz">
+      <div class="content"></div>
+    </div>
+    <!-- Task Bar -->
+    <canvas id="canvas" width="300" height="300"></canvas>
+    <!-- MHacking -->
+    <audio id="audiocorrect" src="http://189.127.164.170/generic/mhacking/correct.ogg"></audio>
+    <audio id="audiowrong" src="http://189.127.164.170/generic/mhacking/wrong.ogg"></audio>
+    <audio id="audiobeep" src="http://189.127.164.170/generic/mhacking/beep.ogg"></audio>
+    <audio id="audiostart" src="http://189.127.164.170/generic/mhacking/start.ogg"></audio>
+    <audio id="audiofail" src="http://189.127.164.170/generic/mhacking/fail.ogg"></audio>
+    <audio id="audiofinish" src="http://189.127.164.170/generic/mhacking/finish.ogg"></audio>
+    <img id="phone" src="http://189.127.164.170/generic/mhacking/phone.png" />
+    <div id="bgfill"></div>
+    <div id="phonewrapper">
+      <div id="game">
+        <div id="infobox"></div>
+        <div id="screen">
+          <div id="screentext"></div>
+        </div>
+      </div>
+    </div>
+    <script src="js/sendnuimessage.js" type="text/javascript"></script>
+    <script src="js/mhacking.js" type="text/javascript"></script>
+    <script src="js/taskbar.js" type="text/javascript"></script>
+  </body>
+</html>

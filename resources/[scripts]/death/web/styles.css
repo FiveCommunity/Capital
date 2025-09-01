@@ -1,0 +1,160 @@
+:root {
+  --primary-1000: rgb(3, 187, 232);
+  --primary-500: rgba(3, 187, 232, 0.5);
+  --primary-300: rgba(3, 187, 232, 0.3);
+  --primary-200: rgba(3, 187, 232, 0.2);
+
+  --dark-500: rgba(0, 0, 0, 0.5);
+  --dark-300: rgba(0, 0, 0, 0.3);
+
+  --white-1000: rgb(255, 255, 255);
+  --white-800: rgba(255, 255, 255, 0.8);
+  --white-500: rgba(255, 255, 255, 0.5);
+  --white-100: rgba(255, 255, 255, 0.1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+body,
+input,
+button,
+textarea {
+  font-family: "Montserrat", sans-serif;
+}
+
+@media (max-height: 800px) {
+  #death .wrap .container {
+    zoom: 0.8;
+  }
+}
+
+@media (max-height: 600px) {
+  #death .wrap .container {
+    zoom: 0.7;
+  }
+}
+
+#death {
+  width: 100vw;
+  height: 100vh;
+
+  background-image: linear-gradient(
+    to bottom,
+    transparent,
+    transparent,
+    transparent,
+    var(--primary-200) 80%
+  );
+}
+
+#death .wrap {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#death .wrap .container {
+  padding: 3rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#death .wrap .container img {
+  margin-bottom: 0.5rem;
+  width: 12%;
+
+  filter: drop-shadow(1px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+#death .wrap .container > h1 {
+  color: var(--white-1000);
+
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 3rem;
+
+  text-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#death .wrap .container > p {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--white-1000);
+
+  text-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#death .wrap .container > p > span {
+  font-weight: 600;
+}
+
+#death .wrap .container .revive {
+  margin-top: 1.5rem;
+
+  width: 15rem;
+  height: 2.5rem;
+
+  border: 0;
+  background-color: transparent;
+
+  background-image: linear-gradient(
+    to right,
+    transparent,
+    var(--primary-1000) 40%,
+    transparent
+  );
+
+  color: var(--white-1000);
+  font-weight: 600;
+  font-size: 1rem;
+  text-transform: uppercase;
+
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+#death .wrap .container .revive:hover {
+  background-image: linear-gradient(
+    to right,
+    transparent,
+    var(--white-1000) 50%,
+    transparent
+  );
+
+  color: var(--primary-1000);
+}
+
+#death .wrap .container .revive:focus {
+  border: 0;
+  outline: 0;
+}

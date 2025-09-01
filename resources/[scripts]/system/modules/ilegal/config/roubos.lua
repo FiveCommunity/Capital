@@ -1,0 +1,188 @@
+Robberys = {}
+
+Robberys.general = {
+    -- ['departament'] = {
+    --     require = { { item = 'weapon_crowbar', amount = 2 } },
+    --     payment = { min = 38000, max = 38000 },
+    --     insideRadius = 20,
+    --     cooldown = 1800,
+    --     seconds = 60,
+    --     lspd = 7
+    -- },
+    -- ['ammu'] = {
+    --     require = { { item = 'flipper-mk2', amount = 1 } },
+    --     payment = { min = 115000, max = 115000 },
+    --     insideRadius = 20,
+    --     cooldown = 1800,
+    --     seconds = 900,
+    --     wanted = { 1800, 1800 },
+    --     lspd = 10
+    -- },
+
+    ['registradora'] = {
+        require = { { item = 'lockpick', amount = 1, usage = true } },
+        alternativeRequire = { item = 'masterpick', amount = 1, usage = true },
+
+        payment = { payInTime = true, min = 3200, max = 4000 },
+        cooldown = 1800,
+        seconds = 30,
+        wanted = { 180, 180 },
+        task = true,
+        lspd = 0
+    },
+
+    ['barbershop'] = {
+        require = { { item = 'flipper-mk1', amount = 1 } },
+        payment = { min = 50000, max = 50000 },
+        insideRadius = 20,
+        cooldown = 1800,
+        seconds = 900,
+        wanted = { 1800, 1800 },
+        lspd = 10
+    },
+
+    ['fleeca'] = {
+        require = { { item = 'chave-ouro', amount = 1 } },
+        payment = { min = 1000000, max = 1000000 },
+        insideRadius = 20,
+        cooldown = 1800,
+        seconds = 900,
+        wanted = { 1800, 1800 },
+        minigame = true,
+        lspd = 25
+    },
+
+    ['acougue'] = {
+        require = { { item = 'chave-platina', amount = 1 } },
+        payment = { min = 1500000, max = 1500000 },
+        insideRadius = 20,
+        cooldown = 1800,
+        seconds = 900,
+        wanted = { 1800, 1800 },
+        minigame = true,
+        lspd = 25
+    },
+
+    ['galinheiro'] = {
+        require = { { item = 'chave-platina', amount = 1 } },
+        payment = { min = 1500000, max = 1500000 },
+        insideRadius = 20,
+        cooldown = 1800,
+        seconds = 900,
+        wanted = { 1800, 1800 },
+        minigame = true,
+        lspd = 25
+    },
+
+    ['central'] = {
+        require = { { item = 'flipper-mk5', amount = 1 } },
+        payment = { min = 2000000, max = 2000000 },
+        insideRadius = 20,
+        cooldown = 999999,
+        seconds = 900,
+        wanted = { 1800, 1800 },
+        lspd = 25
+    },
+}
+
+Robberys.locations = {
+    -- DEPARTAMENTO
+    -- { name = 'Mercado 2/15 do Sul', coord = vec4(2549.26,384.94,108.63, 84.89), config = 'departament' },
+    -- { name = 'Mercado 3/15 do Sul', coord = vec4(1159.56,-314.06,69.21, 94.5), config = 'departament' },
+    -- { name = 'Mercado 4/15 do Sul', coord = vec4(-709.73,-904.1,19.22, 88.9), config = 'departament' },
+    -- { name = 'Mercado 5/15 do Sul', coord = vec4(-1829.11,798.75,138.2, 128.44), config = 'departament' },
+    -- { name = 'Mercado 6/15 do Sul', coord = vec4(378.23,333.33,103.57, 343.96), config = 'departament' },
+    -- { name = 'Mercado 7/15 do Sul', coord = vec4(-3250.09,1004.44,12.84, 81.77), config = 'departament' },
+    -- { name = 'Mercado 8/15 do Sul', coord = vec4(1734.84,6420.79,35.04, 328.03), config = 'departament' },
+    -- { name = 'Mercado 9/15 do Sul', coord = vec4(546.37,2662.73,42.16, 181.67), config = 'departament' },
+    -- { name = 'Mercado 10/15 do Sul', coord = vec4(1959.27,3748.93,32.35, 28.18), config = 'departament' },
+    -- { name = 'Mercado 11/15 do Sul', coord = vec4(2672.83,3286.66,55.25, 60.51), config = 'departament' },
+    -- { name = 'Mercado 12/15 do Sul', coord = vec4(1707.87,4920.39,42.07, 319.63), config = 'departament' },
+    -- { name = 'Mercado 13/15 do Sul', coord = vec4(-43.38,-1748.38,29.43, 45.3), config = 'departament' },
+    -- { name = 'Mercado 15/15 do Sul', coord = vec4(-3047.83,585.66,7.91, 103.54), config = 'departament' },
+
+    -- AMMU NATION
+    -- { name = 'Ammunation', coord = vector4(d, 0), config = 'ammu' },
+    -- { name = 'Ammunation', coord = vector4(18.71209, -1108.246, 29.7854, 153.0709), config = 'ammu' },
+    
+    { name = 'Registradora',  coord = vector4(26.26813, -1347.824, 29.48206, 87.87402), config = 'registradora', id = 1 },
+    { name = 'Registradora',  coord = vector4(26.21539, -1345.675, 29.48206, 82.20473), config = 'registradora', id = 2 },
+    { name = 'Registradora',  coord = vector4(2557.833, 382.5099, 108.6088, 172.9134), config = 'registradora', id = 3 },
+    { name = 'Registradora',  coord = vector4(2555.631, 382.589, 108.6088, 172.9134), config = 'registradora', id = 4 },
+    { name = 'Registradora',  coord = vector4(1163.855, -324.9362, 69.19702, 274.9606), config = 'registradora', id = 5 },
+    { name = 'Registradora',  coord = vector4(1163.525, -323.0242, 69.19702, 280.6299), config = 'registradora', id = 6 },
+    { name = 'Registradora',  coord = vector4(-707.367, -915.6396, 19.20361, 266.4567), config = 'registradora', id = 7 },
+    { name = 'Registradora',  coord = vector4(-707.367, -913.7143, 19.20361, 269.2914), config = 'registradora', id = 8 },
+    { name = 'Registradora',  coord = vector4(-1819.754, 791.8813, 138.0959, 308.9764), config = 'registradora', id = 9 },
+    { name = 'Registradora',  coord = vector4(-1821.046, 793.345, 138.0959, 308.9764), config = 'registradora', id = 10 },
+    { name = 'Registradora',  coord = vector4(374.1363, 325.5428, 103.5538, 70.86614), config = 'registradora', id = 11 },
+    { name = 'Registradora',  coord = vector4(374.6374, 327.6396, 103.5538, 70.86614), config = 'registradora', id = 12 },
+    { name = 'Registradora',  coord = vector4(-3241.609, 1001.697, 12.81763, 172.9134), config = 'registradora', id = 13 },
+    { name = 'Registradora',  coord = vector4(-3243.771, 1001.921, 12.81763, 170.0787), config = 'registradora', id = 14 },
+    { name = 'Registradora',  coord = vector4(1729.174, 6413.895, 35.02563, 62.36221), config = 'registradora', id = 15 },
+    { name = 'Registradora',  coord = vector4(1730.215, 6415.925, 35.02563, 56.69291), config = 'registradora', id = 16 },
+    { name = 'Registradora',  coord = vector4(547.2, 2671.583, 42.15308, 272.126), config = 'registradora', id = 17 },
+    { name = 'Registradora',  coord = vector4(547.4901, 2669.486, 42.15308, 274.9606), config = 'registradora', id = 18 },
+    { name = 'Registradora',  coord = vector4(1961.934, 3740.413, 32.32971, 116.2205), config = 'registradora', id = 19 },
+    { name = 'Registradora',  coord = vector4(1960.708, 3742.365, 32.32971, 119.0551), config = 'registradora', id = 20 },
+    { name = 'Registradora',  coord = vector4(2679.336, 3280.655, 55.22852, 147.4016), config = 'registradora', id = 21 },
+    { name = 'Registradora',  coord = vector4(2677.477, 3281.723, 55.22852, 144.5669), config = 'registradora', id = 22 },
+    { name = 'Registradora',  coord = vector4(1697.13, 4925.038, 42.052, 138.8976), config = 'registradora', id = 23 },
+    { name = 'Registradora',  coord = vector4(1698.646, 4923.969, 42.052, 144.5669), config = 'registradora', id = 24 },
+    { name = 'Registradora',  coord = vector4(-49.02857, -1758.646, 29.41467, 232.4409), config = 'registradora', id = 25 },
+    { name = 'Registradora',  coord = vector4(-47.73626, -1757.261, 29.41467, 232.4409), config = 'registradora', id = 26 },
+    { name = 'Registradora',  coord = vector4(-3038.901, 586.444, 7.897461, 201.2598), config = 'registradora', id = 27 },
+    { name = 'Registradora',  coord = vector4(-3041.116, 585.6528, 7.897461, 198.4252), config = 'registradora', id = 28 },
+    { name = 'Registradora',  coord = vector4(1323.903, -1651.688, 52.26306, 311.811), config = 'registradora', id = 29 },
+    { name = 'Registradora',  coord = vector4(-1152.831, -1425.257, 4.94873, 303.3071), config = 'registradora', id = 30 },
+    { name = 'Registradora',  coord = vector4(321.3231, 181.2132, 103.5707, 62.36221), config = 'registradora', id = 31 },
+    { name = 'Registradora',  coord = vector4(-3170.703, 1074.554, 20.82129, 153.0709), config = 'registradora', id = 32 },
+    { name = 'Registradora',  coord = vector4(1861.108, 3749.169, 33.03735, 209.7638), config = 'registradora', id = 33 },
+    { name = 'Registradora',  coord = vector4(-290.5714, 6199.385, 31.48718, 45.35433), config = 'registradora', id = 34 },
+    { name = 'Registradora',  coord = vector4(81.52088, -1390.273, 29.36414, 357.1653), config = 'registradora', id = 35 },
+    { name = 'Registradora',  coord = vector4(78.34286, -1390.312, 29.36414, 357.1653), config = 'registradora', id = 36 },
+    { name = 'Registradora',  coord = vector4(419.433, -808.8923, 29.48206, 175.748), config = 'registradora', id = 37 },
+    { name = 'Registradora',  coord = vector4(422.6637, -808.8395, 29.48206, 175.748), config = 'registradora', id = 38 },
+    { name = 'Registradora',  coord = vector4(126.356, -222.2242, 54.55457, 249.4488), config = 'registradora', id = 39 },
+    { name = 'Registradora',  coord = vector4(125.7363, -223.7802, 54.55457, 249.4488), config = 'registradora', id = 40 },
+    { name = 'Registradora',  coord = vector4(125.1429, -225.389, 54.55457, 249.4488), config = 'registradora', id = 41 },
+    { name = 'Registradora',  coord = vector4(-165.4549, -301.9517, 39.72668, 65.19685), config = 'registradora', id = 42 },
+    { name = 'Registradora',  coord = vector4(-818.7033, -1074.884, 11.31799, 297.6378), config = 'registradora', id = 43 },
+    { name = 'Registradora',  coord = vector4(-707.8417, -152.1363, 37.40149, 300.4724), config = 'registradora', id = 44 },
+    { name = 'Registradora',  coord = vector4(-1194.514, -769.0417, 17.31653, 28.34646), config = 'registradora', id = 45 },
+    { name = 'Registradora',  coord = vector4(-1193.077, -767.9473, 17.31653, 34.01575), config = 'registradora', id = 46 },
+    { name = 'Registradora',  coord = vector4(-1191.692, -766.8791, 17.31653, 31.1811), config = 'registradora', id = 47 },
+    { name = 'Registradora',  coord = vector4(-1448.914, -239.2088, 49.80298, 226.7717), config = 'registradora', id = 48 },
+    { name = 'Registradora',  coord = vector4(-3169.846, 1045.266, 20.85498, 243.7795), config = 'registradora', id = 49 },
+    { name = 'Registradora',  coord = vector4(-3170.611, 1043.763, 20.85498, 246.6142), config = 'registradora', id = 50 },
+    { name = 'Registradora',  coord = vector4(-3171.349, 1041.982, 20.85498, 243.7795), config = 'registradora', id = 51 },
+    { name = 'Registradora',  coord = vector4(-1097.525, 2710.062, 19.10254, 308.9764), config = 'registradora', id = 52 },
+    { name = 'Registradora',  coord = vector4(614.3077, 2761.108, 42.08569, 90.70866), config = 'registradora', id = 53 },
+    { name = 'Registradora',  coord = vector4(614.2154, 2762.848, 42.08569, 90.70866), config = 'registradora', id = 54 },
+    { name = 'Registradora',  coord = vector4(614.0439, 2764.629, 42.08569, 87.87402), config = 'registradora', id = 55 },
+    { name = 'Registradora',  coord = vector4(1199.301, 2707.226, 38.21021, 269.2914), config = 'registradora', id = 56 },
+    { name = 'Registradora',  coord = vector4(1691.288, 4819.873, 42.052, 187.0866), config = 'registradora', id = 57 },
+    { name = 'Registradora',  coord = vector4(0.989011, 6512.848, 31.87476, 127.5591), config = 'registradora', id = 58 },
+    { name = 'Registradora',  coord = vector4(1199.314, 2704.075, 38.21021, 269.2914), config = 'registradora', id = 59 },
+    { name = 'Registradora',  coord = vector4(1199.301, 2707.094, 38.21021, 269.2914), config = 'registradora', id = 60 },
+    { name = 'Registradora',  coord = vector4(1688.149, 4819.372, 42.052, 192.7559), config = 'registradora', id = 61 },
+    { name = 'Registradora',  coord = vector4(1691.341, 4819.833, 42.052, 187.0866), config = 'registradora', id = 62 },
+    { name = 'Registradora',  coord = vector4(-1.279118, 6515.143, 31.87476, 130.3937), config = 'registradora', id = 63 },
+    { name = 'Registradora',  coord = vector4(0.8967034, 6512.809, 31.87476, 130.3937), config = 'registradora', id = 64 },
+    { name = 'Registradora',  coord = vector4(168.1978, -980.0571, 30.08862, 317.4803), config = 'registradora', id = 65 },
+
+    { name = 'Barbearia',  coord = vector4(-821.8286, -183.3626, 37.5531, 206.9291), config = 'barbershop', id = 65, blipColour = 46 },
+    { name = 'Barbearia',  coord = vector4(-1284.185, -1115.13, 6.987549, 82.20473), config = 'barbershop', id = 66, blipColour = 46 },
+    { name = 'Barbearia',  coord = vector4(1930.602, 3727.938, 32.83521, 206.9291), config = 'barbershop', id = 67, blipColour = 46 },
+    { name = 'Barbearia',  coord = vector4(1211.499, -470.7033, 66.19775, 42.51968), config = 'barbershop', id = 68, blipColour = 46 },
+    { name = 'Barbearia',  coord = vector4(-30.51428, -151.7934, 57.06519, 334.4882), config = 'barbershop', id = 69, blipColour = 46 },
+    { name = 'Barbearia',  coord = vector4(-277.7407, 6230.624, 31.68933, 39.68504), config = 'barbershop', id = 70, blipColour = 46 },
+    { name = 'Barbearia',  coord = vector4(134.4, -1707.811, 29.27991, 138.8976), config = 'barbershop', id = 71, blipColour = 46 },
+
+    -- { name = 'Banco Central', coord = vector4(264.7648, 219.8637, 101.6666, 303.3071), config = 'central' },
+    -- { name = 'Fleeca Praia', coord = vector4(-2956.945, 481.5824, 15.68201, 340.1575), config = 'fleeca' },
+    -- { name = 'Fleeca Centro', coord = vector4(-353.8681, -55.2923, 49.02783, 223.937), config = 'fleeca' },
+    -- { name = 'Fleeca Sandy', coord = vector4(1176.105, 2712.857, 38.07544, 79.37008), config = 'fleeca' },
+    -- { name = 'Açougue', coord = vector4(994.2725, -2162.545, 30.40881, 73.70079), config = 'acougue' },
+    -- { name = 'Galinheiro', coord = vector4(-86.55824, 6237.416, 31.08276, 28.34646), config = 'galinheiro' },
+}

@@ -1,0 +1,67 @@
+body {
+    overflow: hidden;
+    user-select: none;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+
+    font-family: "Montserrat", sans-serif;
+}
+
+#target-eye {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    font-size: 2.0vh;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+#target-label-wrapper {
+    position: absolute;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    left: 51.5%;
+    width: fit-content;
+    height: 100%;
+    top: 49.25%;
+}
+
+#target-label {
+    list-style: none;
+    font-size: 1.3vh;
+    font-weight: 400;
+    color: white;
+    white-space: nowrap;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    padding: 0.2rem 1rem;
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.5),
+        transparent
+    );
+    border-radius: 2px;
+
+    transition: all 0.2s;
+}
+
+.option:hover {
+    padding: 0.2rem 1rem;
+    background-image: linear-gradient(
+        to right,
+        rgba(3, 187, 232, 0.5),
+        transparent
+    );
+    border-radius: 2px;
+}

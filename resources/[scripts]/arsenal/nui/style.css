@@ -1,0 +1,570 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body,
+select,
+input,
+textarea,
+button {
+  font-family: "Montserrat", sans-serif;
+}
+
+#loading {
+  width: 100vw;
+  height: 100vh;
+  display: none;
+}
+
+#loading .wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  background-color: rgba(30, 30, 30, 0.9);
+  color: white;
+}
+
+#loading .wrapper > i {
+  font-size: 1.5rem;
+  animation: spin 1s infinite linear;
+}
+
+#loading .wrapper > small {
+  letter-spacing: 0.1rem;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#arsenal {
+  width: 100vw;
+  height: 100vh;
+  display: none;
+}
+
+#arsenal #arsenal-notify {
+  position: absolute;
+  right: 1%;
+  top: 20%;
+}
+
+#arsenal #arsenal-notify .wrap {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+#arsenal #arsenal-notify .wrap .content {
+  width: 16rem;
+  margin-right: 0.2rem;
+  border-radius: 0.1rem;
+  background-color: rgba(30, 30, 30, 0.9);
+  padding: 0.7rem 0;
+}
+#arsenal #arsenal-notify .wrap .content #message {
+  max-width: 14.5rem;
+  word-wrap: break-word;
+  margin-left: 1rem;
+  margin-top: 0.3rem;
+  letter-spacing: 0.05rem;
+  color: white;
+  font-weight: 300;
+  font-size: 0.8rem;
+}
+
+#arsenal .wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: left;
+  background-image: radial-gradient(transparent, rgba(30, 30, 30, 0.9) 80%);
+}
+
+#arsenal .wrapper .content {
+  width: 30rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to right,
+    rgba(30, 30, 30, 0.8) 20%,
+    rgba(30, 30, 30, 0.6) 40%,
+    rgba(30, 30, 30, 0.4) 60%,
+    transparent
+  );
+}
+
+#arsenal .wrapper .content header {
+  margin-top: 15%;
+  margin-left: 15%;
+}
+
+#arsenal .wrapper .content header #title {
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
+
+#arsenal .wrapper .content header #description {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.8rem;
+  letter-spacing: 0.1rem;
+}
+
+#arsenal .wrapper .content header ul {
+  list-style: none;
+  position: absolute;
+  right: 1%;
+  top: 6%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+#arsenal .wrapper .content header ul li button {
+  border: 0;
+  width: 8rem;
+  height: 2rem;
+  background-color: rgba(30, 30, 30, 0.9);
+  color: white;
+  cursor: pointer;
+}
+
+#arsenal .wrapper .content header button:hover {
+  transition: all 0.3s;
+  background-color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content header button.btn-training.locked {
+  opacity: 0.5;
+  cursor: not-allowed;
+  color: rgb(206, 206, 206);
+}
+
+#arsenal .wrapper .content .weapons {
+  margin-top: 50%;
+  margin-left: 15%;
+  max-height: 25rem;
+  overflow: auto;
+  /* display: none; */
+}
+
+#arsenal .wrapper .content .weapons ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  list-style: none;
+  padding: 0;
+}
+
+#arsenal .wrapper .content .weapons ul li button {
+  width: 20rem;
+  height: 2rem;
+  border: 0;
+  background-color: rgba(30, 30, 30, 0.9);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  border-radius: 0.1rem;
+}
+
+#arsenal .wrapper .content .weapons ul li button:hover {
+  transition: all 0.3s;
+  background-color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content .weapons ul li button span {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: 5%;
+}
+
+#arsenal .wrapper .content #armamentos {
+  margin-top: 50%;
+  max-width: 25rem;
+  margin-left: 15%;
+  max-height: 15rem;
+  overflow: auto;
+}
+
+#arsenal .wrapper .content #armamentos ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  list-style: none;
+  padding: 0;
+}
+
+#arsenal .wrapper .content #armamentos ul li button {
+  width: 24rem;
+  height: 2rem;
+  border: 0;
+  background-color: rgba(30, 30, 30, 0.9);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  border-radius: 0.1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#arsenal .wrapper .content #armamentos ul li button.btn-weapon.selected {
+  background-color: rgb(3, 187, 232);
+  color: #222;
+}
+
+#arsenal .wrapper .content #armamentos ul li button.btn-weapon.locked {
+  opacity: 0.5;
+  cursor: not-allowed;
+  color: rgb(206, 206, 206);
+}
+
+#arsenal .wrapper .content #armamentos ul li button:hover {
+  transition: all 0.3s;
+  background-color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content #armamentos ul li button span {
+  margin-left: 5%;
+}
+
+#arsenal .wrapper .content #armamentos ul li button small {
+  margin-right: 5%;
+}
+
+#arsenal .wrapper .content #armamentos ul li button small.hl {
+  color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content #utilitary {
+  margin-top: 50%;
+  max-width: 25rem;
+  margin-left: 15%;
+  max-height: 15rem;
+  overflow: auto;
+}
+
+#arsenal .wrapper .content #utilitary ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  list-style: none;
+  padding: 0;
+}
+
+#arsenal .wrapper .content #utilitary ul li button {
+  width: 24rem;
+  height: 2rem;
+  border: 0;
+  background-color: rgba(30, 30, 30, 0.9);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  border-radius: 0.1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#arsenal .wrapper .content #utilitary ul li button.btn-utilitary.selected {
+  background-color: rgb(3, 187, 232);
+  color: #222;
+}
+
+#arsenal .wrapper .content #utilitary ul li button.btn-utilitary.locked {
+  opacity: 0.5;
+  cursor: not-allowed;
+  color: rgb(206, 206, 206);
+}
+
+#arsenal .wrapper .content #utilitary ul li button:hover {
+  transition: all 0.3s;
+  background-color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content #utilitary ul li button span {
+  margin-left: 5%;
+}
+
+#arsenal .wrapper .content #utilitary ul li button small {
+  margin-right: 5%;
+}
+
+#arsenal .wrapper .content #utilitary ul li button small.hl {
+  color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content #kits {
+  margin-top: 50%;
+  max-width: 25rem;
+  margin-left: 15%;
+  max-height: 15rem;
+  overflow: auto;
+}
+
+#arsenal .wrapper .content #kits ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  list-style: none;
+  padding: 0;
+}
+
+#arsenal .wrapper .content #kits ul li button {
+  width: 24rem;
+  height: 2rem;
+  border: 0;
+  background-color: rgba(30, 30, 30, 0.9);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  border-radius: 0.1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#arsenal .wrapper .content #kits ul li button.btn-kits.selected {
+  background-color: rgb(3, 187, 232);
+  color: #222;
+}
+
+#arsenal .wrapper .content #kits ul li button.btn-kits.locked {
+  opacity: 0.5;
+  cursor: not-allowed;
+  color: rgb(206, 206, 206);
+}
+
+#arsenal .wrapper .content #kits ul li button:hover {
+  transition: all 0.3s;
+  background-color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content #kits ul li button span {
+  margin-left: 5%;
+}
+
+#arsenal .wrapper .content #kits ul li button small {
+  margin-right: 5%;
+}
+
+#arsenal .wrapper .content #kits ul li button small.hl {
+  color: rgb(3, 187, 232);
+}
+
+#arsenal .wrapper .content #buttons ul {
+  list-style: none;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: right;
+  margin-top: 5%;
+  margin-right: 4.5%;
+}
+
+#arsenal .wrapper .content #buttons ul li button {
+  background-color: rgba(30, 30, 30, 0.9);
+  color: white;
+  padding: 0.5rem 1rem;
+  border: 0;
+  border-radius: 0.1rem;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+#arsenal .wrapper .content #buttons ul li button.municao.locked {
+  opacity: 0.5;
+  cursor: not-allowed;
+  color: rgb(206, 206, 206);
+}
+
+#arsenal .wrapper .content #buttons ul li button:hover {
+  background-color: rgb(3, 187, 232);
+  transition: all 0.3s;
+}
+
+#arsenal .wrapper .content #weapons-description {
+  position: absolute;
+  bottom: -5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+#arsenal .wrapper .content #weapons-description #weapon-name {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+#arsenal .wrapper .content #weapons-description #weapon-name h2 {
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  background-color: rgba(30, 30, 30, 0.9);
+  border-radius: 0.1rem;
+}
+
+#arsenal .wrapper .content #weapons-description #description {
+  display: flex;
+  width: 35rem;
+  padding: 1rem 0.8rem;
+  /* height: 6rem; */
+  margin-top: 1%;
+  background-color: rgba(30, 30, 30, 0.9);
+  border-radius: 0.1rem;
+}
+
+#arsenal .wrapper .content #weapons-description #description ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 0;
+}
+
+#arsenal .wrapper .content #weapons-description #description ul li {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+#arsenal .wrapper .content #weapons-description #description ul li span {
+  color: white;
+  font-size: 0.8rem;
+  letter-spacing: 0.05rem;
+}
+
+#arsenal .wrapper .content #weapons-description #description ul li .line {
+  width: 16.5rem;
+  height: 0.8rem;
+  border-radius: 0.1rem;
+  background-color: rgba(63, 63, 63, 0.5);
+}
+
+@keyframes indicatorAnimation {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+#arsenal
+  .wrapper
+  .content
+  #weapons-description
+  #description
+  ul
+  li
+  .line
+  .indicator {
+  height: 100%;
+  border-radius: 0.1rem;
+  animation-name: indicatorAnimation;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+#training {
+  width: 100vw;
+  height: 100vh;
+  display: none;
+}
+
+#training .wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+#training .wrapper #buttons-training {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+  list-style: none;
+  gap: 5px;
+}
+
+#training .wrapper #buttons-training li {
+  display: flex;
+}
+
+#training .wrapper #buttons-training li #key {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(3, 187, 232);
+  height: 40px;
+  width: 40px;
+  font-weight: 900;
+  font-size: 0.8rem;
+  border-radius: 50%;
+  /* margin-left: -30px; */
+}
+
+#training .wrapper #buttons-training li #text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: #fff;
+  letter-spacing: 0.1rem;
+  background-color: rgba(30, 30, 30, 0.9);
+  width: 120px;
+  border-radius: 2px;
+  margin-left: -15px;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+  border-radius: 0.2rem;
+  background-color: rgba(30, 30, 30, 0.9);
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0.2rem;
+  background-color: rgba(30, 30, 30, 0.9);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0.2rem;
+  background: rgb(3, 187, 232);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(3, 187, 232, 0.5);
+}

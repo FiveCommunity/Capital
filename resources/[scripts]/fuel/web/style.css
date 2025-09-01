@@ -1,0 +1,185 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+textarea {
+  font-family: "Geologica", sans-serif;
+}
+
+#notifyFuel {
+  width: 300px;
+  height: 330px;
+  margin-right: 5px;
+  margin-top: 5px;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(3, 187, 232, 0.3),
+    rgba(0, 0, 0, 0.3)
+  );
+  float: left;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  display: none;
+  position: absolute;
+  left: 20px;
+  bottom: 0;
+  top: 0;
+  margin: auto;
+}
+.logoFuel {
+  width: 90px;
+  height: 50px;
+  background-size: 100%;
+  /* margin: auto; */
+  position: relative;
+  top: 25px;
+  left: 115px;
+  /* background-color: red; */
+}
+
+.titleAfterFuel {
+  display: block;
+  width: 90%;
+  margin: auto;
+  margin-top: 15px;
+  height: 1px;
+}
+
+.textoFuel {
+  width: 100%;
+  min-height: 50px;
+  color: #fff;
+  font-size: 17px;
+  margin-top: 5px;
+  font-weight: 400;
+  text-align: center;
+}
+.valorFuel {
+  width: 100%;
+  height: 60px;
+  padding: 10px;
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-weight: 100;
+}
+.inputValorFuel {
+  width: 200px;
+  height: 40px;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 14px;
+  background: rgba(3, 187, 232, 0.1);
+  border-radius: 5px;
+}
+.textoFuel b {
+  color: #e9354f;
+}
+.totalFuel {
+  width: 50%;
+  height: 60px;
+  float: left;
+  margin-top: 10px;
+  font-weight: 100;
+}
+
+.inputTotalFuel {
+  width: 120px;
+  height: 40px;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 5px;
+  background: rgba(3, 187, 232, 0.1);
+}
+
+.litrosFuel {
+  width: 50%;
+  height: 85px;
+  float: left;
+  margin-top: 10px;
+  font-weight: 100;
+}
+
+.inputLitrosFuel {
+  width: 120px;
+  height: 40px;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 400;
+  background: rgba(3, 187, 232, 0.1);
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.progressFuel {
+  width: 200px;
+  height: 40px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(3, 187, 232, 0.1);
+  border-radius: 5px;
+  margin-top: 15px;
+  font-weight: 400;
+}
+#botoesFuel {
+  width: 100%;
+  height: 60px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.botaoFinalFuel {
+  width: 100px;
+  height: 35px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(3, 187, 232, 0.1);
+  float: left;
+  margin: 10px;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+#iniciarFuel {
+  border: 1px solid rgb(3, 187, 232);
+  border-radius: 5px;
+}
+
+#pararFuel {
+  border: 1px solid rgb(3, 187, 232);
+  border-radius: 5px;
+}
+
+.botaoFinalFuel:hover {
+  cursor: pointer;
+  transition: background 0.3s;
+  background: rgba(3, 187, 232, 0.2);
+  transform: scale(1.05);
+}
